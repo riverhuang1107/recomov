@@ -49,11 +49,13 @@ def generateVector():
     #yaml.dump(vMap, favStream, default_flow_style=False)
 
 #1005130,704332
-def cosine(vMap, offList, off_id='704332'):
+def cosine(vMap, offList, off_id='1005130'):
     
     recoList = vMap[off_id]
     
     num = len(recoList)
+    
+    recoList2 = []
     
     for off in offList:
         
@@ -77,10 +79,17 @@ def cosine(vMap, offList, off_id='704332'):
         
         cosineAngle = productDot / (math.sqrt(sum1) * math.sqrt(sum2))
         
-        if productDot != 0:
+        #not include itself    
+        if productDot != 0 and int(cosineAngle) != 1:
             print off, productDot, sum1, sum2, cosineAngle
+            recoList2.append((off, cosineAngle))
             
-            
+    #sort the recommendation orderly        
+    recolist3 = sorted(recoList2, key=lambda cosine: cosine[1], reverse=True)
+    
+    for row in recolist3:
+        
+        print row
             
 
 generateVector()
