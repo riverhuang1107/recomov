@@ -29,7 +29,7 @@ class ThreadUrl(threading.Thread):
         
         while True:
             #grabs host from queue
-            host = self.queue.get()
+            (title, host) = self.queue.get()
             
             #grabs urls of hosts and prints first 1024 bytes of page
             #url = urllib2.urlopen(host)
@@ -47,7 +47,9 @@ class ThreadUrl(threading.Thread):
                 if entry:
                     entry = dom.getElementsByTagName("entry")[0]
                     mTitle = entry.getElementsByTagName("title")[0].childNodes[0].data
-                    print mTitle                    
+                    
+                    #show the title in console20 and title in douban
+                    print title, mTitle                    
                 else:
                     num2 = num2 + 1
                     print "not exist:" + str(num2)                    
@@ -98,7 +100,8 @@ def load():
     
     k = 0
     
-    nTList = titleList[:100]
+    #choose 40 movies for douban api
+    nTList = titleList[:40]
     
     print len(nTList)
     
@@ -123,7 +126,7 @@ def load():
     #    current = time.time()
     #    print "Elapsed Time: %s" % (current - start)
     
-    #spawn a pool of threads, and pass them queue instance 
+    #spawn a pool of threads, and pass them queue instance, set 6 threads 
     for i in range(6):
         t = ThreadUrl(queue)
         t.setDaemon(True)
@@ -131,6 +134,8 @@ def load():
         
     #populate queue with data   
     for row in nTList:
+        
+        #add apikey for 40 request/sec in douban
         searchUrlList = ["http://api.douban.com/movie/subjects?q=",
                         row,
                         "&amp;start-index=1&amp;max-results=1&amp;apikey=047c58ac95bc67810d750a05c1353683"
@@ -138,10 +143,12 @@ def load():
         sUrl = "".join(searchUrlList).encode("utf8")
         
         print sUrl
-        queue.put(sUrl)
+        queue.put((row,sUrl))
     
     #wait on the queue until everything has been processed     
-    queue.join()    
+    queue.join()
+    
+    #cal the time for request
     current = time.time()
     print "Elapsed Time: %s" % (current - start)
     
@@ -171,7 +178,7 @@ def fetchMovie(title):
         if entry:
             entry = dom.getElementsByTagName("entry")[0]
             mTitle = entry.getElementsByTagName("title")[0].childNodes[0].data
-            print mTitle
+            print title, mTitle
             return 0
         else:
             return 1
