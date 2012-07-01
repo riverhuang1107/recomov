@@ -1,5 +1,9 @@
 #!/usr/bin/python2.7
 # -*- coding: utf-8 -*-
+"""
+* Dump:Import movie title into title.yaml from console db
+* Load:Read movie title from title.yaml to search douban movie by douban API
+"""
 
 import cx_Oracle
 import yaml
@@ -60,6 +64,7 @@ class ThreadUrl(threading.Thread):
             #signals to queue job is done
             self.queue.task_done()
 
+#Import movie title into title.xml from console db
 def dump():
     
     cnxn = cx_Oracle.connect('console20/console20@xe')
@@ -135,7 +140,7 @@ def load():
     #populate queue with data   
     for row in nTList:
         
-        #add apikey for 40 request/sec in douban
+        #add apikey for 40 request/min in douban
         searchUrlList = ["http://api.douban.com/movie/subjects?q=",
                         row,
                         "&amp;start-index=1&amp;max-results=1&amp;apikey=047c58ac95bc67810d750a05c1353683"
