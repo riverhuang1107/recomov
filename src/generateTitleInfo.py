@@ -33,7 +33,7 @@ class ThreadUrl(threading.Thread):
         
         while True:
             #grabs host from queue
-            (title, host) = self.queue.get()
+            (title, offingid, host) = self.queue.get()
             
             #grabs urls of hosts and prints first 1024 bytes of page
             #url = urllib2.urlopen(host)
@@ -60,8 +60,9 @@ class ThreadUrl(threading.Thread):
                     titleDict = {}
                     titleDict["doubanTitle"] = mTitle
                     titleDict["catalogTitle"] = title
+                    titleDict["doubanid"] = idNum
                     
-                    titleInfoDict[idNum] = titleDict
+                    titleInfoDict[offingid] = titleDict
                     
                     #show the title in console20 and title in douban
                     print title, mTitle, idNum
@@ -78,7 +79,7 @@ class ThreadUrl(threading.Thread):
 
 def load():
     
-    titleStream = file('title.yaml', 'r')
+    titleStream = file('offering.yaml', 'r')
     titleList = yaml.load(titleStream)
     
     num = 0
@@ -87,8 +88,12 @@ def load():
     
     k = 0
     
+    nOfferingLst = titleList.keys()
+    
     #choose 40 movies for douban api
-    nTList = titleList[:40]
+    nTList = nOfferingLst[:40]
+    
+    
     
     print len(nTList)
     
@@ -120,7 +125,9 @@ def load():
         t.start()
         
     #populate queue with data   
-    for row in nTList:
+    for off in nTList:
+        
+        row = titleList[off]
         
         #add apikey for 40 request/sec in douban
         searchUrlList = ["http://api.douban.com/movie/subjects?q=",
@@ -130,7 +137,7 @@ def load():
         sUrl = "".join(searchUrlList).encode("utf8")
         
         print sUrl
-        queue.put((row,sUrl))
+        queue.put((row, off, sUrl))
     
     #wait on the queue until everything has been processed     
     queue.join()
