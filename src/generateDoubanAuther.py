@@ -5,16 +5,6 @@
 """
 
 import yaml
-import urllib2, urllib
-import httplib
-import xml.dom.minidom
-import time
-import Queue
-import threading
-from sys import argv
-
-import Constants
-import oAuth
 
 
 def load():
