@@ -3,11 +3,6 @@
 
 import cx_Oracle
 import yaml
-import urllib2, urllib
-import httplib
-import xml.dom.minidom
-import Queue
-import threading
 from sys import argv
 
 def dumpMac():
@@ -148,7 +143,5 @@ elif arg == "dumpFavByMac":
     dumpFavByMac()
 elif arg == "dumpFavByOff":
     dumpFavByOff()
-elif arg == "fetch":
-    fetchMovie()
 else:
     print "please type arg!!"

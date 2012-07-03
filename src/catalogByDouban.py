@@ -7,16 +7,6 @@
 
 import cx_Oracle
 import yaml
-import urllib2, urllib
-import httplib
-import xml.dom.minidom
-import time
-import Queue
-import threading
-from sys import argv
-
-import Constants
-import oAuth
 
 
 #Import movie title into title.xml from console db
