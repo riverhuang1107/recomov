@@ -5,20 +5,18 @@
 """
 
 import yaml
-import urllib2, urllib
 import httplib
 import xml.dom.minidom
 import time
 import Queue
 import threading
-from sys import argv
 
-import Constants
-import oAuth
 
 queue = Queue.Queue()
 
 titleInfoDict = {}
+
+fetchedOff = {}
           
 class ThreadUrl(threading.Thread):
     """Threaded Url Grab"""
@@ -64,10 +62,13 @@ class ThreadUrl(threading.Thread):
                     
                     titleInfoDict[offingid] = titleDict
                     
+                    fetchedOff[offingid] = "ok"
+                    
                     #show the title in console20 and title in douban
                     print title, mTitle, idNum
                 else:
                     num2 = num2 + 1
+                    fetchedOff[offingid] = "notquery"
                     print "not exist:" + str(num2)                    
             else:
                 num = num + 1
@@ -82,18 +83,36 @@ def load():
     titleStream = file('offering.yaml', 'r')
     titleList = yaml.load(titleStream)
     
+    nOfferingList = titleList.keys()
+    
+    try:
+        titleStream = file('fetchedOffering.yaml', 'r')
+        fetchedOffMap = yaml.load(titleStream)
+        
+        fetchedOffList = fetchedOffMap.keys()
+        print len(fetchedOffList)
+        
+        offMap = {}
+        for off in nOfferingList:
+            try:
+                result = fetchedOffMap[off]                
+            except:
+                offMap[off] = titleList[off]
+                
+        titleList = offMap        
+        nOfferingList = titleList.keys()
+        nTList = nOfferingList[:40]
+    except:
+        nTList = nOfferingList[:40]
+    
+    #choose 40 movies for douban api
+    
+    
     num = 0
 
     num2 = 0
     
-    k = 0
-    
-    nOfferingLst = titleList.keys()
-    
-    #choose 40 movies for douban api
-    nTList = nOfferingLst[:40]
-    
-    
+    k = 0        
     
     print len(nTList)
     
@@ -145,12 +164,17 @@ def load():
     #write the console20's title relationship with douban's title and douban's id into titleInfo.yaml
     titleStream = file('titleInfo.yaml', 'w')
     yaml.dump(titleInfoDict, titleStream, default_flow_style=False)
+    
+    titleStream = file('fetchedOffering.yaml', 'a+')
+    yaml.dump(fetchedOff, titleStream, default_flow_style=False)
         
     #cal the time for request
     current = time.time()
     print "Elapsed Time: %s" % (current - start)
     
     print len(titleList)
+    
+    print len(fetchedOff.keys())
     
 def fetchMovie(title):
     
