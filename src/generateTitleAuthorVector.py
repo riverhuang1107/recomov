@@ -5,12 +5,6 @@
 """
 
 import yaml
-import urllib2, urllib
-import httplib
-import xml.dom.minidom
-import Queue
-import math
-from sys import argv
 
 def generateVector():
     
@@ -35,9 +29,7 @@ def generateVector():
     for offeringid in titleidList:
                 
         tMap = titleMap[offeringid]
-        titleid = tMap["doubanid"]
-        
-        mMap = {}
+        titleid = tMap["doubanid"]            
         
         rList = []
         
