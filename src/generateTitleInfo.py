@@ -1,7 +1,7 @@
 #!/usr/bin/python2.7
 # -*- coding: utf-8 -*-
 """
-
+titleInfo.yaml:key(offeringid)
 """
 
 import yaml
@@ -123,9 +123,9 @@ def load():
                 
         titleList = offMap        
         nOfferingList = titleList.keys()
-        nTList = nOfferingList[:40]
+        nTList = nOfferingList[:80]
     except:
-        nTList = nOfferingList[:40]
+        nTList = nOfferingList[:80]
     
     #choose 40 movies for douban api
     

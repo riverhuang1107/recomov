@@ -1,24 +1,23 @@
 #!/usr/bin/python2.7
 # -*- coding: utf-8 -*-
 """
-
+movieRate.yaml:key(doubanid)
 """
 
 import yaml
-import urllib2, urllib
 import httplib
 import xml.dom.minidom
 import time
 import Queue
 import threading
-from sys import argv
 
-import Constants
-import oAuth
 
 queue = Queue.Queue()
 
 movieRateDict = {}
+
+#the fetched rating by douban api
+fetchedRate = {}
           
 class ThreadUrl(threading.Thread):
     """Threaded Url Grab"""
@@ -31,14 +30,32 @@ class ThreadUrl(threading.Thread):
 
         num2 = 0
         
+        k = 0
+        
         while True:
             #grabs host from queue
-            (title, id, doubanTitle, host) = self.queue.get()
+            (offeringid, title, id, doubanTitle, host, sttime) = self.queue.get()
             
             #grabs urls of hosts and prints first 1024 bytes of page
             #url = urllib2.urlopen(host)
             #print url.read(1024)
             
+            print "start: %s"% sttime
+            while True:
+                crt = time.time()
+                print crt
+                period = crt  - sttime
+                if period == 0:
+                    period = 1
+                pulse = k / period
+                print "pulse: %s"% pulse
+                if pulse > 0.6:
+                    print pulse
+                    time.sleep(1)                    
+                    continue
+                else:
+                    break
+                
             conn = httplib.HTTPConnection("api.douban.com")
             conn.request("GET",host)
             res = conn.getresponse()
@@ -73,15 +90,22 @@ class ThreadUrl(threading.Thread):
                     
                     movieRateDict[id] = rateList
                     
+                    #the status is ok if entry is existed
+                    fetchedRate[offeringid] = "ok"
+                    
                     #show the title in console20 and title in douban
                     print doubanTitle, rateValue, authorid
                 else:
+                    #the status is nocomment if entry is not existed
+                    fetchedRate[offeringid] = "nocomment"
+                    
                     num2 = num2 + 1
                     print "not exist:" + str(num2)                    
             else:
                 num = num + 1
                 print "conn err:" + str(num)
     
+            k = k + 1
             #signals to queue job is done
             self.queue.task_done()
 
@@ -100,9 +124,30 @@ def load():
     
     k = 0
     
-    #choose 40 movies for douban api
+    
     #nTList = titleList[:40]
     nTList = titleInfoDict.keys()
+    print len(nTList)
+    #produce a list contains unfetched offering
+    try:
+        titleStream = file('fetchedRate.yaml', 'r')
+        fetchedRateMap = yaml.load(titleStream)
+        
+        fetchedOffList = fetchedRateMap.keys()
+        print len(fetchedOffList)
+        
+        offMap = {}
+        for off in nTList:
+            try:
+                result = fetchedRateMap[off]                
+            except:
+                offMap[off] = titleInfoDict[off]
+                
+        titleInfoDict = offMap        
+        nTList = titleInfoDict.keys()
+        
+    except:
+        nTList = titleInfoDict.keys()
     
     print len(nTList)
     
@@ -137,29 +182,32 @@ def load():
     for row in nTList:
         
         print row
-                
-        id = row
-        
+                                
         titleKey = titleInfoDict[row]
         catalogTitle = titleKey["catalogTitle"]
         doubanTitle = titleKey["doubanTitle"]
+        doubanid = titleKey["doubanid"]
         
         #add apikey for 40 request/min in douban, by default, result contains 10 records
         searchUrlList = ["http://api.douban.com/movie/subject/",
-                        id,
+                        doubanid,
                         "/reviews?apikey=047c58ac95bc67810d750a05c1353683"
                         ]
         sUrl = "".join(searchUrlList).encode("utf8")
         
         print sUrl
-        queue.put((catalogTitle,id,doubanTitle,sUrl))
+        queue.put((row,catalogTitle,doubanid,doubanTitle,sUrl,start))
     
     #wait on the queue until everything has been processed     
     queue.join()
     
     #write the console20's title relationship with douban's title and douban's id into titleInfo.yaml
-    titleStream = file('movieRate.yaml', 'w')
+    titleStream = file('movieRate.yaml', 'a')
     yaml.dump(movieRateDict, titleStream, default_flow_style=False)
+    
+    #write the fetched offering rate info into yaml
+    titleStream = file('fetchedRate.yaml', 'a+')
+    yaml.dump(fetchedRate, titleStream, default_flow_style=False)
         
     #cal the time for request
     current = time.time()
