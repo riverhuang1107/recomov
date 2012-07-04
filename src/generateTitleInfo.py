@@ -16,6 +16,7 @@ queue = Queue.Queue()
 
 titleInfoDict = {}
 
+#the fetched offering by douban api
 fetchedOff = {}
           
 class ThreadUrl(threading.Thread):
@@ -29,13 +30,30 @@ class ThreadUrl(threading.Thread):
 
         num2 = 0
         
+        k = 0
+        
         while True:
             #grabs host from queue
-            (title, offingid, host) = self.queue.get()
+            (title, offingid, host, sttime) = self.queue.get()
             
             #grabs urls of hosts and prints first 1024 bytes of page
             #url = urllib2.urlopen(host)
             #print url.read(1024)
+            print "start: %s"% sttime
+            while True:
+                crt = time.time()
+                print crt
+                period = crt  - sttime
+                if period == 0:
+                    period = 1
+                pulse = k / period
+                print "pulse: %s"% pulse
+                if pulse > 0.6:
+                    print pulse
+                    time.sleep(1)                    
+                    continue
+                else:
+                    break
             
             conn = httplib.HTTPConnection("api.douban.com")
             conn.request("GET",host)
@@ -62,6 +80,7 @@ class ThreadUrl(threading.Thread):
                     
                     titleInfoDict[offingid] = titleDict
                     
+                    #the status is ok if entry is existed
                     fetchedOff[offingid] = "ok"
                     
                     #show the title in console20 and title in douban
@@ -73,7 +92,9 @@ class ThreadUrl(threading.Thread):
             else:
                 num = num + 1
                 print "conn err:" + str(num)
-    
+            
+            k = k + 1
+            
             #signals to queue job is done
             self.queue.task_done()
 
@@ -85,6 +106,7 @@ def load():
     
     nOfferingList = titleList.keys()
     
+    #produce a list contains unfetched offering
     try:
         titleStream = file('fetchedOffering.yaml', 'r')
         fetchedOffMap = yaml.load(titleStream)
@@ -156,15 +178,16 @@ def load():
         sUrl = "".join(searchUrlList).encode("utf8")
         
         print sUrl
-        queue.put((row, off, sUrl))
+        queue.put((row, off, sUrl, start))
     
     #wait on the queue until everything has been processed     
     queue.join()
     
     #write the console20's title relationship with douban's title and douban's id into titleInfo.yaml
-    titleStream = file('titleInfo.yaml', 'w')
+    titleStream = file('titleInfo.yaml', 'a')
     yaml.dump(titleInfoDict, titleStream, default_flow_style=False)
     
+    #write the fetched offering info into yaml
     titleStream = file('fetchedOffering.yaml', 'a+')
     yaml.dump(fetchedOff, titleStream, default_flow_style=False)
         
