@@ -5,6 +5,8 @@
 """
 
 import yaml
+import numpy, scipy.sparse
+from sparsesvd import sparsesvd
 
 def generateVector():
     
@@ -19,6 +21,8 @@ def generateVector():
     authorList = yaml.load(offStream)
     
     vMap = {}
+    
+    rateList = []
     
     #len:28
     print len(rateMap)
@@ -66,6 +70,14 @@ def generateVector():
         
         vMap[offeringid] = rList
         
+        rateList.append(rList)
+    
+    mat = scipy.array(rateList)   
+    smat = scipy.sparse.csc_matrix(mat) 
+    ut, s, vt = sparsesvd(smat, 10)
+    
+    print s
+    
     titleStream = file('titleRateVector.yaml', 'w')
     yaml.dump(vMap, titleStream, default_flow_style=False)
         
