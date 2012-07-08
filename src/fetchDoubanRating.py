@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 movieRate.yaml:key(doubanid)
+fetchedRate.yaml:key(offeringid)
 """
 
 import yaml
@@ -70,6 +71,7 @@ class ThreadUrl(threading.Thread):
                     rateList = []
                     for entry in entryList:
                         
+                        #if douban user did not rate, the default one is 3.
                         rating = entry.getElementsByTagName("gd:rating")
                         if rating:
                             rateValue = rating[0].getAttribute("value")
@@ -138,9 +140,9 @@ def load():
         
         offMap = {}
         for off in nTList:
-            try:
-                result = fetchedRateMap[off]                
-            except:
+            
+            if not fetchedRateMap.has_key(off):
+                
                 offMap[off] = titleInfoDict[off]
                 
         titleInfoDict = offMap        
@@ -201,13 +203,16 @@ def load():
     #wait on the queue until everything has been processed     
     queue.join()
     
-    #write the console20's title relationship with douban's title and douban's id into titleInfo.yaml
-    titleStream = file('movieRate.yaml', 'a')
-    yaml.dump(movieRateDict, titleStream, default_flow_style=False)
-    
-    #write the fetched offering rate info into yaml
-    titleStream = file('fetchedRate.yaml', 'a+')
-    yaml.dump(fetchedRate, titleStream, default_flow_style=False)
+    if len(movieRateDict) != 0: 
+        #write the console20's title relationship with douban's title and douban's id into titleInfo.yaml
+        titleStream = file('movieRate.yaml', 'a')
+        yaml.dump(movieRateDict, titleStream, default_flow_style=False)
+        
+        
+    if len(fetchedRate) != 0:
+        #write the fetched offering rate info into yaml
+        titleStream = file('fetchedRate.yaml', 'a+')
+        yaml.dump(fetchedRate, titleStream, default_flow_style=False)
         
     #cal the time for request
     current = time.time()
