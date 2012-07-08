@@ -71,8 +71,9 @@ class ThreadUrl(threading.Thread):
                 if entryList:
                     
                     rateList = []
+                    authorlist = []
                     for entry in entryList:
-                        
+                                                
                         #if douban user did not rate, the default one is 3.
                         rating = entry.getElementsByTagName("gd:rating")
                         if rating:
@@ -86,15 +87,19 @@ class ThreadUrl(threading.Thread):
                         uriListLen = len(uriList)
                         authorid = uriList[uriListLen-1]
                         
-                        rateDict = {}
-                        rateDict["authorid"] = authorid
-                        rateDict["rate"] = rateValue
+                        if authorid not in authorlist:
                         
-                        rateList.append(rateDict)
-                                                
-                        strList = [authorid, "::", offeringid, "::", str(rateValue), "\n"]
-                        rateStr = "".join(strList)                        
-                        movieRateList.append(rateStr)                                        
+                            rateDict = {}
+                            rateDict["authorid"] = authorid
+                            rateDict["rate"] = rateValue
+                            
+                            rateList.append(rateDict)
+                                                    
+                            strList = [authorid, "::", offeringid, "::", str(rateValue), "::", id, "\n"]
+                            rateStr = "".join(strList)                        
+                            movieRateList.append(rateStr)
+                            
+                            authorlist.append(authorid)                                        
                     
                     movieRateDict[id] = rateList                                    
                     
