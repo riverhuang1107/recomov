@@ -17,6 +17,8 @@ queue = Queue.Queue()
 
 movieRateDict = {}
 
+movieRateList = []
+
 #the fetched rating by douban api
 fetchedRate = {}
           
@@ -41,17 +43,17 @@ class ThreadUrl(threading.Thread):
             #url = urllib2.urlopen(host)
             #print url.read(1024)
             
-            print "start: %s"% sttime
+            #print "start: %s"% sttime
             while True:
                 crt = time.time()
-                print crt
+                #print crt
                 period = crt  - sttime
                 if period == 0:
                     period = 1
                 pulse = k / period
-                print "pulse: %s"% pulse
+                #print "pulse: %s"% pulse
                 if pulse > 0.6:
-                    print pulse
+                    #print pulse
                     time.sleep(1)                    
                     continue
                 else:
@@ -89,8 +91,12 @@ class ThreadUrl(threading.Thread):
                         rateDict["rate"] = rateValue
                         
                         rateList.append(rateDict)
+                                                
+                        strList = [authorid, "::", offeringid, "::", str(rateValue), "\n"]
+                        rateStr = "".join(strList)                        
+                        movieRateList.append(rateStr)                                        
                     
-                    movieRateDict[id] = rateList
+                    movieRateDict[id] = rateList                                    
                     
                     #the status is ok if entry is existed
                     fetchedRate[offeringid] = "ok"
@@ -213,6 +219,11 @@ def load():
         #write the fetched offering rate info into yaml
         titleStream = file('fetchedRate.yaml', 'a+')
         yaml.dump(fetchedRate, titleStream, default_flow_style=False)
+        
+    if len(movieRateList) != 0:
+        f = open("doubanRate.dat", "a")
+        f.writelines(movieRateList)
+        f.close()
         
     #cal the time for request
     current = time.time()
