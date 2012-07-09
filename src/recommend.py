@@ -12,10 +12,10 @@ def loadSVD():
     svd = SVD()
     svd.load_data(filename=filename, sep='::', format={'col':0, 'row':1, 'value':2, 'ids': int})
     
-    svd.save_data("svd.dat", False)
+    #svd.save_data("svd.dat", False)
     
     K=100
-    #svd.compute(k=K, min_values=5, pre_normalize=None, mean_center=True, post_normalize=True, savefile=None)
+    svd.compute(k=K, min_values=5, pre_normalize='rows', mean_center=True, post_normalize=True, savefile='.')
     
     #svd.recommend(USERID, n=10, only_unknowns=True, is_row=False)
     
