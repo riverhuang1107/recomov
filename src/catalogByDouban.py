@@ -1,7 +1,7 @@
 #!/usr/bin/python2.7
 # -*- coding: utf-8 -*-
 """
-* Dump:Import movie title into title.yaml from console db
+* Dump:Import movie title into offering.yaml from console db
 
 """
 
