@@ -107,7 +107,8 @@ class ThreadUrl(threading.Thread):
                     fetchedRate[offeringid] = "ok"
                     
                     #show the title in console20 and title in douban
-                    print doubanTitle, rateValue, authorid
+                    #print doubanTitle, rateValue, authorid
+                    print rateValue, authorid
                 else:
                     #the status is nocomment if entry is not existed
                     fetchedRate[offeringid] = "nocomment"
