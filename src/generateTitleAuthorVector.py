@@ -76,7 +76,7 @@ def generateVector():
     smat = scipy.sparse.csc_matrix(mat) 
     ut, s, vt = sparsesvd(smat, 10)
     
-    print s
+    print ut
     
     titleStream = file('titleRateVector.yaml', 'w')
     yaml.dump(vMap, titleStream, default_flow_style=False)

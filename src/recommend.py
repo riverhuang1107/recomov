@@ -14,8 +14,9 @@ def loadSVD():
     
     #svd.save_data("svd.dat", False)
     
-    K=100
-    svd.compute(k=K, min_values=5, pre_normalize='rows', mean_center=True, post_normalize=True, savefile='.')
+    K=50
+    svd.compute(k=K, min_values=5, pre_normalize="rows", mean_center=False, post_normalize=True, savefile='.')
+    
     
     #svd.recommend(USERID, n=10, only_unknowns=True, is_row=False)
     
