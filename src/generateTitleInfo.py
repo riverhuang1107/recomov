@@ -84,7 +84,7 @@ class ThreadUrl(threading.Thread):
                     fetchedOff[offingid] = "ok"
                     
                     #show the title in console20 and title in douban
-                    print title, mTitle, idNum
+                    #print title, mTitle, idNum
                 else:
                     num2 = num2 + 1
                     fetchedOff[offingid] = "notquery"
