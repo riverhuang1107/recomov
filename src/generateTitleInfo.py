@@ -84,7 +84,8 @@ class ThreadUrl(threading.Thread):
                     fetchedOff[offingid] = "ok"
                     
                     #show the title in console20 and title in douban
-                    print title, mTitle, idNum
+                    #print title, mTitle, idNum
+                    print offingid, idNum
                 else:
                     num2 = num2 + 1
                     fetchedOff[offingid] = "notquery"
@@ -123,9 +124,9 @@ def load():
                 
         titleList = offMap        
         nOfferingList = titleList.keys()
-        nTList = nOfferingList[:80]
+        nTList = nOfferingList
     except:
-        nTList = nOfferingList[:80]
+        nTList = nOfferingList
     
     #choose 40 movies for douban api
     
