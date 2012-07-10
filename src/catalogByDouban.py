@@ -17,7 +17,8 @@ def dump():
     #print "%s" % cnxn.version
     
     try:
-        crsr.execute("select * from T_RS_OFFERING where SRV_NAME!='%s' and srv_name!='%s'" % ("SHDJ","StartOver"))
+        #crsr.execute("select * from T_RS_OFFERING where SRV_NAME!='%s' and srv_name!='%s'" % ("SHDJ","StartOver"))
+        crsr.execute("select * from t_rs_offering where (ams_provider='Hangzhou WASU' or ams_provider='SiTV') and ast_actors is not null and ast_actors!='无'")
         #print crsr.description
                 
         i = 0

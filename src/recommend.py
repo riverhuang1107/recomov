@@ -14,8 +14,8 @@ def loadSVD():
     
     #svd.save_data("svd.dat", False)
     
-    K=50
-    svd.compute(k=K, min_values=5, pre_normalize="rows", mean_center=False, post_normalize=True, savefile='.')
+    K=20
+    svd.compute(k=K, min_values=1, pre_normalize="rows", mean_center=False, post_normalize=True, savefile='.')
     
     
     #svd.recommend(USERID, n=10, only_unknowns=True, is_row=False)
@@ -30,10 +30,11 @@ def loadSVD():
     
     print sim_matrix
     
-    sim = svd.similar(1173893, 10)
-    #sim = svd.similarity(1173890, 1173895)
+    #1173893
+    sim = svd.similar(1396943, 10)
+    simi = svd.similarity(1396943, 1429174)
     print sim
-    
+    print simi
     print "ok"
     
 loadSVD()
