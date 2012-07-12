@@ -1,954 +1,3 @@
-'1028328':
-  catalogTitle: "\u5927\u79E6\u5E1D\u56FD\uFF0818\uFF09"
-  doubanTitle: "\u5927\u79E6\u5E1D\u56FD"
-  doubanid: !!python/unicode '3114220'
-'1160004':
-  catalogTitle: "\u96EA\u82B1\uFF082\uFF09"
-  doubanTitle: "\u5BB6\u6709\u4ED9\u59BB\u2161"
-  doubanid: !!python/unicode '2212165'
-'1160005':
-  catalogTitle: "\u96EA\u82B1\uFF085\uFF09"
-  doubanTitle: !!python/unicode 'Snow Flower and the Secret Fan'
-  doubanid: !!python/unicode '4135434'
-'1160008':
-  catalogTitle: "\u96EA\u82B1\uFF083\uFF09"
-  doubanTitle: !!python/unicode 'Snow Flower and the Secret Fan'
-  doubanid: !!python/unicode '4135434'
-'1160009':
-  catalogTitle: "\u96EA\u82B1\uFF084\uFF09"
-  doubanTitle: !!python/unicode 'Snow Flower and the Secret Fan'
-  doubanid: !!python/unicode '4135434'
-'1173890':
-  catalogTitle: "\u65B0\u6C34\u6D52\u4F20I\uFF0821\uFF09"
-  doubanTitle: "\u6C34\u6D52\u4F20"
-  doubanid: !!python/unicode '4718246'
-'1173893':
-  catalogTitle: "\u65B0\u6C34\u6D52\u4F20I\uFF0826\uFF09"
-  doubanTitle: "\u6C34\u6D52\u4F20"
-  doubanid: !!python/unicode '4718246'
-'1173894':
-  catalogTitle: "\u65B0\u6C34\u6D52\u4F20I\uFF0814\uFF09"
-  doubanTitle: "\u6C34\u6D52\u4F20"
-  doubanid: !!python/unicode '4718246'
-'1179240':
-  catalogTitle: "\u5E7F\u5E9C\u592A\u6781\u4F20\u5947\uFF0820\uFF09"
-  doubanTitle: "\u5E7F\u5E9C\u592A\u6781\u4F20\u5947"
-  doubanid: !!python/unicode '4928753'
-'1179243':
-  catalogTitle: "\u5E7F\u5E9C\u592A\u6781\u4F20\u5947\uFF0810\uFF09"
-  doubanTitle: "\u5E7F\u5E9C\u592A\u6781\u4F20\u5947"
-  doubanid: !!python/unicode '4928753'
-'1210774':
-  catalogTitle: "\u7236\u8F88\u7684\u65D7\u5E1C"
-  doubanTitle: "\u7236\u8F88\u7684\u65D7\u5E1C"
-  doubanid: !!python/unicode '3056440'
-'1210776':
-  catalogTitle: "\u793E\u4EA4\u7F51\u7EDC"
-  doubanTitle: !!python/unicode 'The Social Network'
-  doubanid: !!python/unicode '3205624'
-'1238973':
-  catalogTitle: "\u6768\u8D35\u5983\u79D8\u53F2\uFF0812\uFF09"
-  doubanTitle: "\u6768\u8D35\u5983\u79D8\u53F2"
-  doubanid: !!python/unicode '4202543'
-'1275613':
-  catalogTitle: "\u63A9\u62A4\uFF087\uFF09"
-  doubanTitle: "\u63A9\u62A4"
-  doubanid: !!python/unicode '5975082'
-'1288718':
-  catalogTitle: "\u9752\u76F2\uFF0825\uFF09"
-  doubanTitle: "\u7A7F\u8D8A\u96C6\u4E2D\u8425"
-  doubanid: !!python/unicode '5031728'
-'1330364':
-  catalogTitle: "HD_\u674E\u732E\u8BA1\u5386\u9669\u8BB0"
-  doubanTitle: "\u674E\u732E\u8BA1\u5386\u9669\u8BB0"
-  doubanid: !!python/unicode '4226741'
-'1335819':
-  catalogTitle: "\u79D8\u5BC6\u82B1\u56ED\uFF085\uFF09"
-  doubanTitle: "\u3072\u307F\u3064\u306E\u82B1\u5712"
-  doubanid: !!python/unicode '1720137'
-'1337881':
-  catalogTitle: "HD_\u65AD\u523A\uFF0811\uFF09"
-  doubanTitle: "\u65AD\u523A"
-  doubanid: !!python/unicode '6801450'
-'1337883':
-  catalogTitle: "HD_\u65AD\u523A\uFF087\uFF09"
-  doubanTitle: "\u65AD\u523A"
-  doubanid: !!python/unicode '6801450'
-'1337887':
-  catalogTitle: "\u6D41\u661F\u7684\u542F\u793A"
-  doubanTitle: !!python/unicode 'Meteor Apocalypse'
-  doubanid: !!python/unicode '4745748'
-'1337889':
-  catalogTitle: "HD_\u65AD\u523A\uFF0818\uFF09"
-  doubanTitle: "\u65AD\u523A"
-  doubanid: !!python/unicode '6801450'
-'1360310':
-  catalogTitle: "\u6D6A\u6F2B\u5411\u5DE6\u5A5A\u59FB\u5F80\u53F3\uFF0828\uFF09"
-  doubanTitle: "\u6D6A\u6F2B\u5411\u5DE6\uFF0C\u5A5A\u59FB\u5F80\u53F3"
-  doubanid: !!python/unicode '6799161'
-'1370244':
-  catalogTitle: "HD_\u91D1\u679D\u7389\u53F6\uFF0846\uFF09"
-  doubanTitle: "\u91D1\u679D\u7389\u53F6"
-  doubanid: !!python/unicode '1303376'
-'1370248':
-  catalogTitle: "HD_\u91D1\u679D\u7389\u53F6\uFF0847\uFF09"
-  doubanTitle: "\u91D1\u679D\u7389\u53F6"
-  doubanid: !!python/unicode '1303376'
-'1378000':
-  catalogTitle: "\u5973\u5B50\u620F\u73ED\uFF0819\uFF09"
-  doubanTitle: "\u5973\u5B50\u620F\u73ED"
-  doubanid: !!python/unicode '3619108'
-'1378002':
-  catalogTitle: "\u5973\u5B50\u620F\u73ED\uFF0824\uFF09"
-  doubanTitle: "\u5973\u5B50\u620F\u73ED"
-  doubanid: !!python/unicode '3619108'
-'1378005':
-  catalogTitle: "\u5973\u5B50\u620F\u73ED\uFF087\uFF09"
-  doubanTitle: "\u5973\u5B50\u620F\u73ED"
-  doubanid: !!python/unicode '3619108'
-'1378008':
-  catalogTitle: "\u5973\u5B50\u620F\u73ED\uFF0829\uFF09"
-  doubanTitle: "\u5973\u5B50\u620F\u73ED"
-  doubanid: !!python/unicode '3619108'
-'1393667':
-  catalogTitle: "\u51F0\u56FE\u817E\uFF088\uFF09"
-  doubanTitle: "\u51F0\u56FE\u817E"
-  doubanid: !!python/unicode '6309373'
-'1393668':
-  catalogTitle: "\u51F0\u56FE\u817E\uFF087\uFF09"
-  doubanTitle: "\u51F0\u56FE\u817E"
-  doubanid: !!python/unicode '6309373'
-'1395831':
-  catalogTitle: "\u840D\u8E2A\u4FA0\u5F71\uFF0816\uFF09\u6E05\u6670\u7248"
-  doubanTitle: "\u840D\u8E2A\u4FA0\u5F71"
-  doubanid: !!python/unicode '3137852'
-'1395834':
-  catalogTitle: "\u840D\u8E2A\u4FA0\u5F71\uFF0820\uFF09\u6E05\u6670\u7248"
-  doubanTitle: "\u840D\u8E2A\u4FA0\u5F71"
-  doubanid: !!python/unicode '3137852'
-'1395837':
-  catalogTitle: "\u840D\u8E2A\u4FA0\u5F71\uFF0818\uFF09\u6E05\u6670\u7248"
-  doubanTitle: "\u840D\u8E2A\u4FA0\u5F71"
-  doubanid: !!python/unicode '3137852'
-'1420402':
-  catalogTitle: "\u8C01\u6765\u4F3A\u5019\u5988\uFF089\uFF09"
-  doubanTitle: "\u8C01\u6765\u4F3A\u5019\u5988"
-  doubanid: !!python/unicode '6961167'
-'1422143':
-  catalogTitle: "HD_\u6C38\u4E0D\u56DE\u5934\uFF0813\uFF09"
-  doubanTitle: "\u6C38\u4E0D\u56DE\u5934"
-  doubanid: !!python/unicode '4047001'
-'1429170':
-  catalogTitle: "\u5200\u89C1\u7B11"
-  doubanTitle: "\u5200\u89C1\u7B11"
-  doubanid: !!python/unicode '4051608'
-'1429174':
-  catalogTitle: "\u7434\u52A8\u6211\u5FC3"
-  doubanTitle: "\u7434\u52A8\u6211\u5FC3"
-  doubanid: !!python/unicode '5924216'
-'1429177':
-  catalogTitle: "\u66FC\u54C8\u987F\u5973\u4F63"
-  doubanTitle: !!python/unicode 'Maid in Manhattan'
-  doubanid: !!python/unicode '1305735'
-'1458700':
-  catalogTitle: "\u96F6\u53F7\u56FD\u5883\u7EBF\uFF085\uFF09"
-  doubanTitle: "\u96F6\u53F7\u56FD\u5883\u7EBF"
-  doubanid: !!python/unicode '5450872'
-'1458702':
-  catalogTitle: "\u96F6\u53F7\u56FD\u5883\u7EBF\uFF088\uFF09"
-  doubanTitle: "\u96F6\u53F7\u56FD\u5883\u7EBF"
-  doubanid: !!python/unicode '5450872'
-'1458706':
-  catalogTitle: "\u96F6\u53F7\u56FD\u5883\u7EBF\uFF0820\uFF09"
-  doubanTitle: "\u96F6\u53F7\u56FD\u5883\u7EBF"
-  doubanid: !!python/unicode '5450872'
-'1471441':
-  catalogTitle: "\u6211\u7684\u5A1C\u5854\u838E\uFF081\uFF09"
-  doubanTitle: "\u6211\u7684\u5A1C\u5854\u838E"
-  doubanid: !!python/unicode '5351797'
-'1471442':
-  catalogTitle: "\u6211\u7684\u5A1C\u5854\u838E\uFF0841\uFF09"
-  doubanTitle: "\u6211\u7684\u5A1C\u5854\u838E"
-  doubanid: !!python/unicode '5351797'
-'1471443':
-  catalogTitle: "\u6211\u7684\u5A1C\u5854\u838E\uFF0817\uFF09"
-  doubanTitle: "\u6211\u7684\u5A1C\u5854\u838E"
-  doubanid: !!python/unicode '5351797'
-'1471445':
-  catalogTitle: "\u6211\u7684\u5A1C\u5854\u838E\uFF0837\uFF09"
-  doubanTitle: "\u6211\u7684\u5A1C\u5854\u838E"
-  doubanid: !!python/unicode '5351797'
-'1471447':
-  catalogTitle: "\u6211\u7684\u5A1C\u5854\u838E\uFF0820\uFF09"
-  doubanTitle: "\u6211\u7684\u5A1C\u5854\u838E"
-  doubanid: !!python/unicode '5351797'
-'1471448':
-  catalogTitle: "\u6211\u7684\u5A1C\u5854\u838E\uFF0818\uFF09"
-  doubanTitle: "\u6211\u7684\u5A1C\u5854\u838E"
-  doubanid: !!python/unicode '5351797'
-'1471449':
-  catalogTitle: "\u6211\u7684\u5A1C\u5854\u838E\uFF0831\uFF09"
-  doubanTitle: "\u6211\u7684\u5A1C\u5854\u838E"
-  doubanid: !!python/unicode '5351797'
-'1473361':
-  catalogTitle: "\u8BF7\u4F60\u539F\u8C05\u6211\uFF0813\uFF09"
-  doubanTitle: "\u8BF7\u4F60\u539F\u8C05\u6211"
-  doubanid: !!python/unicode '5377114'
-'1473362':
-  catalogTitle: "\u8BF7\u4F60\u539F\u8C05\u6211\uFF0810\uFF09"
-  doubanTitle: "\u8BF7\u4F60\u539F\u8C05\u6211"
-  doubanid: !!python/unicode '5377114'
-'1473365':
-  catalogTitle: "\u8BF7\u4F60\u539F\u8C05\u6211\uFF082\uFF09"
-  doubanTitle: "\u8BF7\u4F60\u539F\u8C05\u6211"
-  doubanid: !!python/unicode '5377114'
-'1473369':
-  catalogTitle: "\u8BF7\u4F60\u539F\u8C05\u6211\uFF0825\uFF09"
-  doubanTitle: "\u8BF7\u4F60\u539F\u8C05\u6211"
-  doubanid: !!python/unicode '5377114'
-'1483401':
-  catalogTitle: "HD_\u5A5A\u59FB\u4FDD\u536B\u6218\uFF0833\uFF09"
-  doubanTitle: "\u5A5A\u59FB\u4FDD\u536B\u6218"
-  doubanid: !!python/unicode '4294119'
-'1483405':
-  catalogTitle: "HD_\u5A5A\u59FB\u4FDD\u536B\u6218\uFF081\uFF09"
-  doubanTitle: "\u5A5A\u59FB\u4FDD\u536B\u6218"
-  doubanid: !!python/unicode '4294119'
-'1493794':
-  catalogTitle: "\u6307\u73AF\u738B2\uFF1A\u53CC\u5854\u5947\u5175"
-  doubanTitle: !!python/unicode 'The Lord of the Rings: The Two Towers'
-  doubanid: !!python/unicode '1291572'
-'1493799':
-  catalogTitle: "\u68A6\u6E38"
-  doubanTitle: "\u5922\u904A\u590F\u5A01\u5937"
-  doubanid: !!python/unicode '1877016'
-'1497558':
-  catalogTitle: "\u5355\u8EAB\u5973\u738B\uFF0822\uFF09"
-  doubanTitle: "\u5355\u8EAB\u5973\u738B"
-  doubanid: !!python/unicode '5244064'
-'1497920':
-  catalogTitle: "\u5BCC\u8D35\u5728\u5929\uFF086\uFF092012"
-  doubanTitle: "\u5BCC\u8D35\u5728\u5929"
-  doubanid: !!python/unicode '3147522'
-'1497927':
-  catalogTitle: "\u5BCC\u8D35\u5728\u5929\uFF089\uFF092012"
-  doubanTitle: "\u5BCC\u8D35\u5728\u5929"
-  doubanid: !!python/unicode '3147522'
-'304016':
-  catalogTitle: "\u4E07\u5377\u697C(61)"
-  doubanTitle: "\u4E07\u5377\u697C"
-  doubanid: !!python/unicode '3587011'
-'396271':
-  catalogTitle: "\u5C0F\u5175\u5F20\u560E"
-  doubanTitle: "\u5C0F\u5175\u5F20\u560E"
-  doubanid: !!python/unicode '3042355'
-'420621':
-  catalogTitle: "\u96F7\u901F\u767B\u95EA\u7535\u51B2\u7EBF"
-  doubanTitle: "\u96F7\u901F\u767B\u95EA\u7535\u51B2\u7EBF"
-  doubanid: !!python/unicode '4824963'
-'444817':
-  catalogTitle: "\u6C5F\u57CE\u4EE4\uFF0830\uFF09"
-  doubanTitle: "\u6C5F\u57CE\u4EE4"
-  doubanid: !!python/unicode '4009339'
-'5983':
-  catalogTitle: "\u51E4\u51F0\u56DB\u91CD\u594F\uFF0814\uFF09"
-  doubanTitle: "\u9CF3\u51F0\u56DB\u91CD\u594F"
-  doubanid: !!python/unicode '2253756'
-'690500':
-  catalogTitle: "\u4E2D\u56FD\u5BB6\u5EAD\u4E4B\u6BCD\u7231\uFF0822\uFF09"
-  doubanTitle: "\u4E2D\u56FD\u5BB6\u5EAD\u4E4B\u65B0\u6E34\u671B"
-  doubanid: !!python/unicode '3783839'
-'865094':
-  catalogTitle: "\u5929\u56FD\u7684\u9636\u68AF\uFF0820\uFF09"
-  doubanTitle: "\uCC9C\uAD6D\uC758 \uACC4\uB2E8"
-  doubanid: !!python/unicode '1786753'
-'865097':
-  catalogTitle: "\u5929\u56FD\u7684\u9636\u68AF\uFF0818\uFF09"
-  doubanTitle: "\uCC9C\uAD6D\uC758 \uACC4\uB2E8"
-  doubanid: !!python/unicode '1786753'
-'902754':
-  catalogTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9\uFF081\uFF09"
-  doubanTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9"
-  doubanid: !!python/unicode '2190918'
-'902756':
-  catalogTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9\uFF089\uFF09"
-  doubanTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9"
-  doubanid: !!python/unicode '2190918'
-'902758':
-  catalogTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9\uFF088\uFF09"
-  doubanTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9"
-  doubanid: !!python/unicode '2190918'
-'903464':
-  catalogTitle: "\u8FFD\u6355\uFF081\uFF09"
-  doubanTitle: "\u8FFD\u6355"
-  doubanid: !!python/unicode '5285671'
-'904202':
-  catalogTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6C34\u4E91\u95F4\uFF083\uFF09"
-  doubanTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6C34\u4E91\u95F4"
-  doubanid: !!python/unicode '2190921'
-'904203':
-  catalogTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6C34\u4E91\u95F4\uFF0813\uFF09"
-  doubanTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6C34\u4E91\u95F4"
-  doubanid: !!python/unicode '2190921'
-'973120':
-  catalogTitle: "\u7761\u9F99\u795E\u63A2\u4E4B\u60C5\u7231\u4FDD\u9669\uFF0818\uFF09"
-  doubanTitle: "\u7761\u9F99\u795E\u63A2\u4E4B\u60C5\u7231\u4FDD\u9669"
-  doubanid: !!python/unicode '3273704'
-'973122':
-  catalogTitle: "\u7761\u9F99\u795E\u63A2\u4E4B\u60C5\u7231\u4FDD\u9669\uFF0814\uFF09"
-  doubanTitle: "\u7761\u9F99\u795E\u63A2\u4E4B\u60C5\u7231\u4FDD\u9669"
-  doubanid: !!python/unicode '3273704'
-'973128':
-  catalogTitle: "\u7761\u9F99\u795E\u63A2\u4E4B\u60C5\u7231\u4FDD\u9669\uFF0817\uFF09"
-  doubanTitle: "\u7761\u9F99\u795E\u63A2\u4E4B\u60C5\u7231\u4FDD\u9669"
-  doubanid: !!python/unicode '3273704'
-'999755':
-  catalogTitle: "\u4E94\u661F\u7EA2\u65D7\u8FCE\u98CE\u98D8\u626C\uFF084\uFF09"
-  doubanTitle: "\u4E94\u661F\u7EA2\u65D7\u8FCE\u98CE\u98D8\u626C"
-  doubanid: !!python/unicode '5951861'
-'999758':
-  catalogTitle: "\u4E94\u661F\u7EA2\u65D7\u8FCE\u98CE\u98D8\u626C\uFF0812\uFF09"
-  doubanTitle: "\u4E94\u661F\u7EA2\u65D7\u8FCE\u98CE\u98D8\u626C"
-  doubanid: !!python/unicode '5951861'
-'1000971':
-  catalogTitle: "\u98CE\u58F0\u4F20\u5947\uFF088\uFF09"
-  doubanTitle: "\u98CE\u58F0\u4F20\u5947"
-  doubanid: !!python/unicode '4894062'
-'1000976':
-  catalogTitle: "\u98CE\u58F0\u4F20\u5947\uFF087\uFF09"
-  doubanTitle: "\u98CE\u58F0\u4F20\u5947"
-  doubanid: !!python/unicode '4894062'
-'1016374':
-  catalogTitle: "\u7231\u60C5\u516C\u5BD3II\uFF0818\uFF09"
-  doubanTitle: "\u7231\u60C5\u516C\u5BD33"
-  doubanid: !!python/unicode '6312211'
-'1028321':
-  catalogTitle: "\u5927\u79E6\u5E1D\u56FD\uFF088\uFF09"
-  doubanTitle: "\u5927\u79E6\u5E1D\u56FD"
-  doubanid: !!python/unicode '3114220'
-'1028324':
-  catalogTitle: "\u5927\u79E6\u5E1D\u56FD\uFF084\uFF09"
-  doubanTitle: "\u5927\u79E6\u5E1D\u56FD"
-  doubanid: !!python/unicode '3114220'
-'1089853':
-  catalogTitle: "\u5730\u9053\u6218\uFF087\uFF09"
-  doubanTitle: "\u5730\u9053\u6218"
-  doubanid: !!python/unicode '5343604'
-'1089858':
-  catalogTitle: "\u5730\u9053\u6218\uFF0838\uFF09"
-  doubanTitle: "\u5730\u9053\u6218"
-  doubanid: !!python/unicode '5343604'
-'1089859':
-  catalogTitle: "\u5730\u9053\u6218\uFF0835\uFF09"
-  doubanTitle: "\u5730\u9053\u6218"
-  doubanid: !!python/unicode '5343604'
-'1159686':
-  catalogTitle: "\u5730\u94C1\u60CA\u9B42"
-  doubanTitle: !!python/unicode 'Tube'
-  doubanid: !!python/unicode '1308630'
-'1159688':
-  catalogTitle: "\u6050\u6016\u8721\u50CF\u9986"
-  doubanTitle: !!python/unicode 'House of Wax'
-  doubanid: !!python/unicode '1309184'
-'1159937':
-  catalogTitle: "\u96EA\u82B1\uFF0811\uFF09"
-  doubanTitle: !!python/unicode 'Snow Flower and the Secret Fan'
-  doubanid: !!python/unicode '4135434'
-'1173895':
-  catalogTitle: "\u65B0\u6C34\u6D52\u4F20I\uFF089\uFF09"
-  doubanTitle: "\u6C34\u6D52\u4F20"
-  doubanid: !!python/unicode '4718246'
-'1173898':
-  catalogTitle: "\u65B0\u6C34\u6D52\u4F20I\uFF0830\uFF09"
-  doubanTitle: "\u6C34\u6D52\u4F20"
-  doubanid: !!python/unicode '4718246'
-'1242041':
-  catalogTitle: "\u5E78\u798F\u6765\u6572\u95E8\u6E05\u6670\u7248\uFF0811\uFF09"
-  doubanTitle: "\u5E78\u798F\u6765\u6572\u95E8"
-  doubanid: !!python/unicode '5966739'
-'1250887':
-  catalogTitle: "HD_\u524D\u5EA6"
-  doubanTitle: "\u524D\u5EA6"
-  doubanid: !!python/unicode '4709904'
-'1251286':
-  catalogTitle: "HD_\u667A\u8005\u65E0\u654C\uFF0822\uFF09"
-  doubanTitle: "\u667A\u8005\u65E0\u654C"
-  doubanid: !!python/unicode '4858787'
-'1300190':
-  catalogTitle: "\u91D1\u5927\u73ED\u3000\uFF0830\uFF09"
-  doubanTitle: "\u91D1\u5927\u73ED"
-  doubanid: !!python/unicode '4187633'
-'1300192':
-  catalogTitle: "\u91D1\u5927\u73ED\u3000\uFF0829\uFF09"
-  doubanTitle: "\u91D1\u5927\u73ED"
-  doubanid: !!python/unicode '4187633'
-'1300197':
-  catalogTitle: "\u91D1\u5927\u73ED\u3000\uFF0832\uFF09"
-  doubanTitle: "\u91D1\u5927\u73ED"
-  doubanid: !!python/unicode '4187633'
-'1337884':
-  catalogTitle: "HD_\u65AD\u523A\uFF0815\uFF09"
-  doubanTitle: "\u65AD\u523A"
-  doubanid: !!python/unicode '6801450'
-'1368877':
-  catalogTitle: "\u5B8C\u7F8E\u7684\u4E16\u754C"
-  doubanTitle: !!python/unicode 'A Perfect World'
-  doubanid: !!python/unicode '1300992'
-'1373323':
-  catalogTitle: "\u53E4\u4ECA\u5927\u6218\u79E6\u4FD1\u60C5\uFF0841\uFF09"
-  doubanTitle: "\u53E4\u4ECA\u5927\u6218\u79E6\u4FD1\u60C5"
-  doubanid: !!python/unicode '1300082'
-'1374820':
-  catalogTitle: "\u9999\u683C\u91CC\u62C9\uFF0834\uFF09"
-  doubanTitle: "\u9999\u683C\u91CC\u62C9(shangri-la)"
-  doubanid: !!python/unicode '3732745'
-'1374822':
-  catalogTitle: "\u9999\u683C\u91CC\u62C9\uFF0812\uFF09"
-  doubanTitle: "\u9999\u683C\u91CC\u62C9(shangri-la)"
-  doubanid: !!python/unicode '3732745'
-'1374824':
-  catalogTitle: "\u9999\u683C\u91CC\u62C9\uFF086\uFF09"
-  doubanTitle: "\u9999\u683C\u91CC\u62C9(shangri-la)"
-  doubanid: !!python/unicode '3732745'
-'1378009':
-  catalogTitle: "\u5973\u5B50\u620F\u73ED\uFF0816\uFF09"
-  doubanTitle: "\u5973\u5B50\u620F\u73ED"
-  doubanid: !!python/unicode '3619108'
-'1380970':
-  catalogTitle: "\u6B66\u5219\u5929\u79D8\u53F2\uFF082\uFF09"
-  doubanTitle: "\u6B66\u5219\u5929\u79D8\u53F2"
-  doubanid: !!python/unicode '6003256'
-'1380971':
-  catalogTitle: "\u6B66\u5219\u5929\u79D8\u53F2\uFF0827\uFF09"
-  doubanTitle: "\u6B66\u5219\u5929\u79D8\u53F2"
-  doubanid: !!python/unicode '6003256'
-'1380973':
-  catalogTitle: "\u6B66\u5219\u5929\u79D8\u53F2\uFF0835\uFF09"
-  doubanTitle: "\u6B66\u5219\u5929\u79D8\u53F2"
-  doubanid: !!python/unicode '6003256'
-'1380975':
-  catalogTitle: "\u6B66\u5219\u5929\u79D8\u53F2\uFF0823\uFF09"
-  doubanTitle: "\u6B66\u5219\u5929\u79D8\u53F2"
-  doubanid: !!python/unicode '6003256'
-'1380978':
-  catalogTitle: "\u6B66\u5219\u5929\u79D8\u53F2\uFF0844\uFF09"
-  doubanTitle: "\u6B66\u5219\u5929\u79D8\u53F2"
-  doubanid: !!python/unicode '6003256'
-'1405171':
-  catalogTitle: "\u4E2D\u56FD\u5730\uFF0820\uFF09"
-  doubanTitle: "\u4E2D\u56FD\u5730"
-  doubanid: !!python/unicode '5031720'
-'1406483':
-  catalogTitle: "\u6B7B\u4EA1\u98DE\u8F66\uFF082011\uFF09"
-  doubanTitle: !!python/unicode 'Death Race'
-  doubanid: !!python/unicode '2132412'
-'1409451':
-  catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CI\uFF0813\uFF09"
-  doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
-  doubanid: !!python/unicode '4935039'
-'1409453':
-  catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CI\uFF0814\uFF09"
-  doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
-  doubanid: !!python/unicode '4935039'
-'1409456':
-  catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CI\uFF0811\uFF09"
-  doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
-  doubanid: !!python/unicode '4935039'
-'1409458':
-  catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CI\uFF0816\uFF09"
-  doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
-  doubanid: !!python/unicode '4935039'
-'1410840':
-  catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CII\uFF081\uFF09"
-  doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
-  doubanid: !!python/unicode '4935039'
-'1410845':
-  catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CII\uFF0832\uFF09"
-  doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
-  doubanid: !!python/unicode '4935039'
-'1417310':
-  catalogTitle: "HD_\u6B66\u5219\u5929\u79D8\u53F2\uFF0823\uFF09"
-  doubanTitle: "\u6B66\u5219\u5929\u79D8\u53F2"
-  doubanid: !!python/unicode '6003256'
-'1417314':
-  catalogTitle: "HD_\u6B66\u5219\u5929\u79D8\u53F2\uFF0828\uFF09"
-  doubanTitle: "\u6B66\u5219\u5929\u79D8\u53F2"
-  doubanid: !!python/unicode '6003256'
-'1418543':
-  catalogTitle: "HD_\u65B0\u6C34\u6D52\uFF0867\uFF09"
-  doubanTitle: "\u6C34\u6D52\u4F20"
-  doubanid: !!python/unicode '4718246'
-'1457089':
-  catalogTitle: "\u68A6\u60F3\uFF0814\uFF09"
-  doubanTitle: "\"Berlin Alexanderplatz\" - Mein Traum vom Traum des Franz Biberkopf\
-    \ von Alfred D\xF6blin: Ein Epilog"
-  doubanid: !!python/unicode '3003908'
-'1467403':
-  catalogTitle: "\u5343\u5C71\u66AE\u96EA\uFF0810\uFF09"
-  doubanTitle: "\u5343\u5C71\u66AE\u96EA2"
-  doubanid: !!python/unicode '10508912'
-'1467405':
-  catalogTitle: "\u5343\u5C71\u66AE\u96EA\uFF0824\uFF09"
-  doubanTitle: "\u5343\u5C71\u66AE\u96EA2"
-  doubanid: !!python/unicode '10508912'
-'1467406':
-  catalogTitle: "\u5343\u5C71\u66AE\u96EA\uFF0819\uFF09"
-  doubanTitle: "\u5343\u5C71\u66AE\u96EA2"
-  doubanid: !!python/unicode '10508912'
-'1467408':
-  catalogTitle: "\u5343\u5C71\u66AE\u96EA\uFF0815\uFF09"
-  doubanTitle: "\u5343\u5C71\u66AE\u96EA2"
-  doubanid: !!python/unicode '10508912'
-'1487655':
-  catalogTitle: "HD_\u8FD8\u73E0\u683C\u683C\u4E4B\u71D5\u513F\u7FE9\u7FE9\u98DE\uFF08\
-    8\uFF09"
-  doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
-  doubanid: !!python/unicode '4935039'
-'1490912':
-  catalogTitle: "HD_\u5DDD\u519B\u56E2\u8840\u6218\u5230\u5E95\uFF0827\uFF09"
-  doubanTitle: "\u5DDD\u519B\u56E2\u8840\u6218\u5230\u5E95"
-  doubanid: !!python/unicode '6839157'
-'1490916':
-  catalogTitle: "HD_\u5DDD\u519B\u56E2\u8840\u6218\u5230\u5E95\uFF086\uFF09"
-  doubanTitle: "\u5DDD\u519B\u56E2\u8840\u6218\u5230\u5E95"
-  doubanid: !!python/unicode '6839157'
-'1490919':
-  catalogTitle: "HD_\u5DDD\u519B\u56E2\u8840\u6218\u5230\u5E95\uFF0832\uFF09"
-  doubanTitle: "\u5DDD\u519B\u56E2\u8840\u6218\u5230\u5E95"
-  doubanid: !!python/unicode '6839157'
-'1497925':
-  catalogTitle: "\u5BCC\u8D35\u5728\u5929\uFF0834\uFF092012"
-  doubanTitle: "\u5BCC\u8D35\u5728\u5929"
-  doubanid: !!python/unicode '3147522'
-'2680':
-  catalogTitle: "\u5931\u8E2A\u5973\u4EBA-15"
-  doubanTitle: "\u5931\u8E2A\u5973\u4EBA"
-  doubanid: !!python/unicode '2990239'
-'303682':
-  catalogTitle: "\u4E07\u5377\u697C(14)"
-  doubanTitle: "\u4E07\u5377\u697C"
-  doubanid: !!python/unicode '3587011'
-'3517':
-  catalogTitle: "\u72FC\u6BD2\u82B1\uFF0832\uFF09"
-  doubanTitle: "\u72FC\u6BD2\u82B1"
-  doubanid: !!python/unicode '2237993'
-'3518':
-  catalogTitle: "\u9B54\u738B-18"
-  doubanTitle: "\u9B54\u738B"
-  doubanid: !!python/unicode '3196686'
-'402602':
-  catalogTitle: "\u8D25\u72AC\u5973\u738B\uFF0852\uFF09"
-  doubanTitle: "\u6557\u72AC\u5973\u738B"
-  doubanid: !!python/unicode '3402975'
-'443639':
-  catalogTitle: "\u5FC3\u661F\u7684\u6CEA\u5149\uFF0810\uFF09"
-  doubanTitle: "\u5FC3\u661F\u7684\u6CEA\u5149"
-  doubanid: !!python/unicode '3126974'
-'444814':
-  catalogTitle: "\u6C5F\u57CE\u4EE4\uFF0829\uFF09"
-  doubanTitle: "\u6C5F\u57CE\u4EE4"
-  doubanid: !!python/unicode '4009339'
-'444819':
-  catalogTitle: "\u6C5F\u57CE\u4EE4\uFF0831\uFF09"
-  doubanTitle: "\u6C5F\u57CE\u4EE4"
-  doubanid: !!python/unicode '4009339'
-'469873':
-  catalogTitle: "A\u8BA1\u5212"
-  doubanTitle: "A\u8BA1\u5212"
-  doubanid: !!python/unicode '2969550'
-'469875':
-  catalogTitle: "A\u8BA1\u5212"
-  doubanTitle: "A\u8BA1\u5212"
-  doubanid: !!python/unicode '2969550'
-'519511':
-  catalogTitle: "\u516C\u4E3B\u5C0F\u59B9\uFF0826\uFF09"
-  doubanTitle: "\u516C\u4E3B\u5C0F\u59B9"
-  doubanid: !!python/unicode '2249496'
-'519512':
-  catalogTitle: "\u516C\u4E3B\u5C0F\u59B9\uFF0823\uFF09"
-  doubanTitle: "\u516C\u4E3B\u5C0F\u59B9"
-  doubanid: !!python/unicode '2249496'
-'519514':
-  catalogTitle: "\u516C\u4E3B\u5C0F\u59B9\uFF0829\uFF09"
-  doubanTitle: "\u516C\u4E3B\u5C0F\u59B9"
-  doubanid: !!python/unicode '2249496'
-'653009':
-  catalogTitle: "\u72FC\u70DF\uFF082\uFF09"
-  doubanTitle: "\u72FC\u70DF"
-  doubanid: !!python/unicode '3532431'
-'694888':
-  catalogTitle: "\u6843\u82B1\u5C0F\u59B9\uFF0816\uFF09"
-  doubanTitle: "\u6843\u82B1\u5C0F\u59B9"
-  doubanid: !!python/unicode '3637739'
-'711224':
-  catalogTitle: "\u6211\u548C\u6625\u5929\u6709\u4E2A\u7EA6\u4F1A\uFF0834\uFF09"
-  doubanTitle: "\u6211\u548C\u6625\u5929\u6709\u500B\u7D04\u6703"
-  doubanid: !!python/unicode '2983434'
-'7181':
-  catalogTitle: "\u7B11\u7740\u6D3B\u4E0B\u53BB\uFF0815\uFF09"
-  doubanTitle: "\u7B11\u7740\u6D3B\u4E0B\u53BB"
-  doubanid: !!python/unicode '2363972'
-'790296':
-  catalogTitle: "\u8DDF\u7EA2\u9876\u767D\u5927\u4E09\u5143\uFF0823\uFF09"
-  doubanTitle: "\u8DDF\u7EA2\u9876\u767D\u5927\u4E09\u5143"
-  doubanid: !!python/unicode '3814092'
-'790297':
-  catalogTitle: "\u8DDF\u7EA2\u9876\u767D\u5927\u4E09\u5143\uFF084\uFF09"
-  doubanTitle: "\u8DDF\u7EA2\u9876\u767D\u5927\u4E09\u5143"
-  doubanid: !!python/unicode '3814092'
-'865090':
-  catalogTitle: "\u5929\u56FD\u7684\u9636\u68AF\uFF085\uFF09"
-  doubanTitle: "\uCC9C\uAD6D\uC758 \uACC4\uB2E8"
-  doubanid: !!python/unicode '1786753'
-'870326':
-  catalogTitle: "\u5544\u6728\u9E1F\u4E4B\u8C1C"
-  doubanTitle: "\u5544\u6728\u9E1F\u4E4B\u8C1C"
-  doubanid: !!python/unicode '5989828'
-'902750':
-  catalogTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9\uFF0814\uFF09"
-  doubanTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9"
-  doubanid: !!python/unicode '2190918'
-'904201':
-  catalogTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6C34\u4E91\u95F4\uFF0810\uFF09"
-  doubanTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6C34\u4E91\u95F4"
-  doubanid: !!python/unicode '2190921'
-'914840':
-  catalogTitle: "\u59BB\u5B50\u7684\u8BF1\u60D1II\uFF0849\uFF09"
-  doubanTitle: "\uC544\uB0B4\uC758 \uC720\uD639"
-  doubanid: !!python/unicode '3284271'
-'914843':
-  catalogTitle: "\u59BB\u5B50\u7684\u8BF1\u60D1II\uFF0890\uFF09"
-  doubanTitle: "\uC544\uB0B4\uC758 \uC720\uD639"
-  doubanid: !!python/unicode '3284271'
-'914847':
-  catalogTitle: "\u59BB\u5B50\u7684\u8BF1\u60D1II\uFF0858\uFF09"
-  doubanTitle: "\uC544\uB0B4\uC758 \uC720\uD639"
-  doubanid: !!python/unicode '3284271'
-'914848':
-  catalogTitle: "\u59BB\u5B50\u7684\u8BF1\u60D1II\uFF0852\uFF09"
-  doubanTitle: "\uC544\uB0B4\uC758 \uC720\uD639"
-  doubanid: !!python/unicode '3284271'
-'94':
-  catalogTitle: "\u5929\u5927\u5730\u5927-11"
-  doubanTitle: "\u5929\u5927\u5730\u5927"
-  doubanid: !!python/unicode '3095372'
-'1161123':
-  catalogTitle: "\u7231\u4F3C\u767E\u6C47\uFF089\uFF09"
-  doubanTitle: "\u7231\u4F3C\u767E\u6C47"
-  doubanid: !!python/unicode '3757315'
-'1179032':
-  catalogTitle: "\u5E7F\u5E9C\u592A\u6781\u4F20\u5947\uFF089\uFF09"
-  doubanTitle: "\u5E7F\u5E9C\u592A\u6781\u4F20\u5947"
-  doubanid: !!python/unicode '4928753'
-'1179036':
-  catalogTitle: "\u5E7F\u5E9C\u592A\u6781\u4F20\u5947\uFF0812\uFF09"
-  doubanTitle: "\u5E7F\u5E9C\u592A\u6781\u4F20\u5947"
-  doubanid: !!python/unicode '4928753'
-'1184191':
-  catalogTitle: "\u4E61\u6751\u7231\u60C5\uFF0821\uFF09"
-  doubanTitle: "\u4E61\u6751\u7231\u60C5\u4EA4\u54CD\u66F2"
-  doubanid: !!python/unicode '6023499'
-'1231090':
-  catalogTitle: "\u5723\u5802\u98CE\u4E91\uFF084\uFF09"
-  doubanTitle: "\u5723\u5802\u98CE\u4E91"
-  doubanid: !!python/unicode '4925454'
-'1231093':
-  catalogTitle: "\u5723\u5802\u98CE\u4E91\uFF0812\uFF09"
-  doubanTitle: "\u5723\u5802\u98CE\u4E91"
-  doubanid: !!python/unicode '4925454'
-'1231097':
-  catalogTitle: "\u5723\u5802\u98CE\u4E91\uFF0814\uFF09"
-  doubanTitle: "\u5723\u5802\u98CE\u4E91"
-  doubanid: !!python/unicode '4925454'
-'1239664':
-  catalogTitle: "\u5341\u5927\u5947\u51A4\uFF0814\uFF09"
-  doubanTitle: "\u5341\u5927\u5947\u51A4"
-  doubanid: !!python/unicode '3303336'
-'1239665':
-  catalogTitle: "\u5341\u5927\u5947\u51A4\uFF0826\uFF09"
-  doubanTitle: "\u5341\u5927\u5947\u51A4"
-  doubanid: !!python/unicode '3303336'
-'1239667':
-  catalogTitle: "\u5341\u5927\u5947\u51A4\uFF0827\uFF09"
-  doubanTitle: "\u5341\u5927\u5947\u51A4"
-  doubanid: !!python/unicode '3303336'
-'1239669':
-  catalogTitle: "\u5341\u5927\u5947\u51A4\uFF0810\uFF09"
-  doubanTitle: "\u5341\u5927\u5947\u51A4"
-  doubanid: !!python/unicode '3303336'
-'1251281':
-  catalogTitle: "HD_\u82B1\u6728\u5170"
-  doubanTitle: "\u82B1\u6728\u862D"
-  doubanid: !!python/unicode '2076923'
-'1275424':
-  catalogTitle: "\u4E03\u5929"
-  doubanTitle: "\uC138\uBE10\uB370\uC774\uC988"
-  doubanid: !!python/unicode '2999500'
-'1288540':
-  catalogTitle: "\u9752\u76F2\uFF081\uFF09"
-  doubanTitle: "\u7A7F\u8D8A\u96C6\u4E2D\u8425"
-  doubanid: !!python/unicode '5031728'
-'1288545':
-  catalogTitle: "\u9752\u76F2\uFF084\uFF09"
-  doubanTitle: "\u7A7F\u8D8A\u96C6\u4E2D\u8425"
-  doubanid: !!python/unicode '5031728'
-'1288547':
-  catalogTitle: "\u9752\u76F2\uFF082\uFF09"
-  doubanTitle: "\u7A7F\u8D8A\u96C6\u4E2D\u8425"
-  doubanid: !!python/unicode '5031728'
-'1288549':
-  catalogTitle: "\u9752\u76F2\uFF085\uFF09"
-  doubanTitle: "\u7A7F\u8D8A\u96C6\u4E2D\u8425"
-  doubanid: !!python/unicode '5031728'
-'1300194':
-  catalogTitle: "\u91D1\u5927\u73ED\u3000\uFF0833\uFF09"
-  doubanTitle: "\u91D1\u5927\u73ED"
-  doubanid: !!python/unicode '4187633'
-'1312369':
-  catalogTitle: "\u8D85\u80FD\u6E38\u620F\u8005"
-  doubanTitle: "\u0413\u0435\u0439\u043C\u0435\u0440\u044B. \u0412 \u043F\u043E\u0438\
-    \u0441\u043A\u0430\u0445 \u0446\u0435\u043B\u0438"
-  doubanid: !!python/unicode '6428516'
-'1374921':
-  catalogTitle: "\u9999\u683C\u91CC\u62C9\uFF083\uFF09"
-  doubanTitle: "\u9999\u683C\u91CC\u62C9(shangri-la)"
-  doubanid: !!python/unicode '3732745'
-'1374924':
-  catalogTitle: "\u9999\u683C\u91CC\u62C9\uFF0810\uFF09"
-  doubanTitle: "\u9999\u683C\u91CC\u62C9(shangri-la)"
-  doubanid: !!python/unicode '3732745'
-'1374929':
-  catalogTitle: "\u9999\u683C\u91CC\u62C9\uFF085\uFF09"
-  doubanTitle: "\u9999\u683C\u91CC\u62C9(shangri-la)"
-  doubanid: !!python/unicode '3732745'
-'1392101':
-  catalogTitle: "\u79D8\u6740\u540D\u5355\uFF0818\uFF09"
-  doubanTitle: "\u79D8\u6740\u540D\u5355"
-  doubanid: !!python/unicode '6724677'
-'1392107':
-  catalogTitle: "\u79D8\u6740\u540D\u5355\uFF0826\uFF09"
-  doubanTitle: "\u79D8\u6740\u540D\u5355"
-  doubanid: !!python/unicode '6724677'
-'1396943':
-  catalogTitle: "\u8C0D\u5F71\u91CD\u91CD3\uFF082011\uFF09"
-  doubanTitle: !!python/unicode 'The Bourne Ultimatum'
-  doubanid: !!python/unicode '1578507'
-'1398820':
-  catalogTitle: "\u5357\u4EAC\u5357\u4EAC"
-  doubanTitle: "\u5357\u4EAC\uFF01\u5357\u4EAC\uFF01"
-  doubanid: !!python/unicode '2294568'
-'1404416':
-  catalogTitle: "\u58EB\u5175\u7A81\u51FB\uFF0814\uFF09\u6E05\u6670\u7248"
-  doubanTitle: "\u58EB\u5175\u7A81\u51FB"
-  doubanid: !!python/unicode '2154096'
-'1404418':
-  catalogTitle: "\u58EB\u5175\u7A81\u51FB\uFF0819\uFF09\u6E05\u6670\u7248"
-  doubanTitle: "\u58EB\u5175\u7A81\u51FB"
-  doubanid: !!python/unicode '2154096'
-'1409455':
-  catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CI\uFF0812\uFF09"
-  doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
-  doubanid: !!python/unicode '4935039'
-'1410723':
-  catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CII\uFF0813\uFF09"
-  doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
-  doubanid: !!python/unicode '4935039'
-'1411108':
-  catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CIII\uFF084\uFF09"
-  doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
-  doubanid: !!python/unicode '4935039'
-'1415264':
-  catalogTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F\uFF086\uFF09"
-  doubanTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F"
-  doubanid: !!python/unicode '6899937'
-'1415266':
-  catalogTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F\uFF088\uFF09"
-  doubanTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F"
-  doubanid: !!python/unicode '6899937'
-'1415269':
-  catalogTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F\uFF084\uFF09"
-  doubanTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F"
-  doubanid: !!python/unicode '6899937'
-'1415271':
-  catalogTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F\uFF087\uFF09"
-  doubanTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F"
-  doubanid: !!python/unicode '6899937'
-'1415273':
-  catalogTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F\uFF085\uFF09"
-  doubanTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F"
-  doubanid: !!python/unicode '6899937'
-'1417041':
-  catalogTitle: "HD_\u6B66\u5219\u5929\u79D8\u53F2\uFF086\uFF09"
-  doubanTitle: "\u6B66\u5219\u5929\u79D8\u53F2"
-  doubanid: !!python/unicode '6003256'
-'1421431':
-  catalogTitle: "\u667A\u8005\u65E0\u654C\uFF0821\uFF09"
-  doubanTitle: "\u667A\u8005\u65E0\u654C"
-  doubanid: !!python/unicode '4858787'
-'1427453':
-  catalogTitle: "\u87B3\u8782\uFF0824\uFF09"
-  doubanTitle: "\u87B3\u8782"
-  doubanid: !!python/unicode '6534069'
-'1427455':
-  catalogTitle: "\u87B3\u8782\uFF0832\uFF09"
-  doubanTitle: "\u87B3\u8782"
-  doubanid: !!python/unicode '6534069'
-'1427457':
-  catalogTitle: "\u87B3\u8782\uFF0825\uFF09"
-  doubanTitle: "\u87B3\u8782"
-  doubanid: !!python/unicode '6534069'
-'1427459':
-  catalogTitle: "\u87B3\u8782\uFF0823\uFF09"
-  doubanTitle: "\u87B3\u8782"
-  doubanid: !!python/unicode '6534069'
-'1428042':
-  catalogTitle: "\u65B0\u5993\u751F\u4F20\uFF0829\uFF09"
-  doubanTitle: "\uC2E0\uAE30\uC0DD\uB390"
-  doubanid: !!python/unicode '5937932'
-'1428787':
-  catalogTitle: "\u4E00\u4E00\u5411\u524D\u51B2\uFF0816\uFF09"
-  doubanTitle: "\u4E00\u4E00\u5411\u524D\u51B2"
-  doubanid: !!python/unicode '5279645'
-'1428788':
-  catalogTitle: "\u4E00\u4E00\u5411\u524D\u51B2\uFF085\uFF09"
-  doubanTitle: "\u4E00\u4E00\u5411\u524D\u51B2"
-  doubanid: !!python/unicode '5279645'
-'1447662':
-  catalogTitle: "\u5077\u5FC3\u5927\u5723PS\u7537\uFF0812\uFF09"
-  doubanTitle: "\u5077\u5FC3\u5927\u5723P.S.\u7537"
-  doubanid: !!python/unicode '4236823'
-'1477313':
-  catalogTitle: "\u5200\u5C16\u4E0A\u884C\u8D70\uFF081\uFF09"
-  doubanTitle: "\u5200\u5C16\u4E0A\u884C\u8D70"
-  doubanid: !!python/unicode '4922823'
-'1482943':
-  catalogTitle: "HD_\u5510\u7405\u63A2\u6848\uFF086\uFF09"
-  doubanTitle: "\u5510\u7405\u63A2\u6848"
-  doubanid: !!python/unicode '4300569'
-'1482946':
-  catalogTitle: "HD_\u5510\u7405\u63A2\u6848\uFF0825\uFF09"
-  doubanTitle: "\u5510\u7405\u63A2\u6848"
-  doubanid: !!python/unicode '4300569'
-'1483361':
-  catalogTitle: "HD_\u5A5A\u59FB\u4FDD\u536B\u6218\uFF0816\uFF09"
-  doubanTitle: "\u5A5A\u59FB\u4FDD\u536B\u6218"
-  doubanid: !!python/unicode '4294119'
-'1483363':
-  catalogTitle: "HD_\u5A5A\u59FB\u4FDD\u536B\u6218\uFF0823\uFF09"
-  doubanTitle: "\u5A5A\u59FB\u4FDD\u536B\u6218"
-  doubanid: !!python/unicode '4294119'
-'1489131':
-  catalogTitle: "\u60AC\u5D16\uFF0810\uFF09"
-  doubanTitle: "\u60AC\u5D16"
-  doubanid: !!python/unicode '6965622'
-'1489133':
-  catalogTitle: "\u60AC\u5D16\uFF0815\uFF09"
-  doubanTitle: "\u60AC\u5D16"
-  doubanid: !!python/unicode '6965622'
-'1489136':
-  catalogTitle: "\u60AC\u5D16\uFF0824\uFF09"
-  doubanTitle: "\u60AC\u5D16"
-  doubanid: !!python/unicode '6965622'
-'1489137':
-  catalogTitle: "\u60AC\u5D16\uFF0830\uFF09"
-  doubanTitle: "\u60AC\u5D16"
-  doubanid: !!python/unicode '6965622'
-'1492230':
-  catalogTitle: "\u62A4\u56FD\u5927\u5C06\u519B\uFF088\uFF09"
-  doubanTitle: "\u62A4\u56FD\u5927\u5C06\u519B"
-  doubanid: !!python/unicode '5384563'
-'1494372':
-  catalogTitle: "\u91D1\u679D\u7389\u53F6\uFF089\uFF09"
-  doubanTitle: "\u91D1\u679D\u7389\u53F6"
-  doubanid: !!python/unicode '1303376'
-'1494378':
-  catalogTitle: "\u91D1\u679D\u7389\u53F6\uFF0827\uFF09"
-  doubanTitle: "\u91D1\u679D\u7389\u53F6"
-  doubanid: !!python/unicode '1303376'
-'1494379':
-  catalogTitle: "\u91D1\u679D\u7389\u53F6\uFF0819\uFF09"
-  doubanTitle: "\u91D1\u679D\u7389\u53F6"
-  doubanid: !!python/unicode '1303376'
-'1497559':
-  catalogTitle: "\u5355\u8EAB\u5973\u738B\uFF0810\uFF09"
-  doubanTitle: "\u5355\u8EAB\u5973\u738B"
-  doubanid: !!python/unicode '5244064'
-'1509393':
-  catalogTitle: "HD_\u4E0B\u5357\u6D0B\uFF0813\uFF09"
-  doubanTitle: "\u4E0B\u5357\u6D0B"
-  doubanid: !!python/unicode '4262234'
-'303914':
-  catalogTitle: "\u4E07\u5377\u697C(48)"
-  doubanTitle: "\u4E07\u5377\u697C"
-  doubanid: !!python/unicode '3587011'
-'390':
-  catalogTitle: "\u767D\u8272\u5DE8\u5854\uFF0837\uFF09"
-  doubanTitle: "\u767D\u3044\u5DE8\u5854"
-  doubanid: !!python/unicode '2150220'
-'391':
-  catalogTitle: "7\u53F7\u5DEE\u9986"
-  doubanTitle: "7\u865F\u5DEE\u9928"
-  doubanid: !!python/unicode '1480007'
-'402606':
-  catalogTitle: "\u8D25\u72AC\u5973\u738B\uFF0854\uFF09"
-  doubanTitle: "\u6557\u72AC\u5973\u738B"
-  doubanid: !!python/unicode '3402975'
-'443630':
-  catalogTitle: "\u5FC3\u661F\u7684\u6CEA\u5149\uFF085\uFF09"
-  doubanTitle: "\u5FC3\u661F\u7684\u6CEA\u5149"
-  doubanid: !!python/unicode '3126974'
-'443637':
-  catalogTitle: "\u5FC3\u661F\u7684\u6CEA\u5149\uFF089\uFF09"
-  doubanTitle: "\u5FC3\u661F\u7684\u6CEA\u5149"
-  doubanid: !!python/unicode '3126974'
-'4625':
-  catalogTitle: "\u5927\u6848\u7EC4\uFF086\uFF09"
-  doubanTitle: "\u5927\u6848\u7EC4"
-  doubanid: !!python/unicode '3147523'
-'4626':
-  catalogTitle: "\u51E4\u51F0\u56DB\u91CD\u594F\uFF085\uFF09"
-  doubanTitle: "\u9CF3\u51F0\u56DB\u91CD\u594F"
-  doubanid: !!python/unicode '2253756'
-'519515':
-  catalogTitle: "\u516C\u4E3B\u5C0F\u59B9\uFF0834\uFF09"
-  doubanTitle: "\u516C\u4E3B\u5C0F\u59B9"
-  doubanid: !!python/unicode '2249496'
-'519517':
-  catalogTitle: "\u516C\u4E3B\u5C0F\u59B9\uFF0835\uFF09"
-  doubanTitle: "\u516C\u4E3B\u5C0F\u59B9"
-  doubanid: !!python/unicode '2249496'
-'694883':
-  catalogTitle: "\u6843\u82B1\u5C0F\u59B9\uFF0820\uFF09"
-  doubanTitle: "\u6843\u82B1\u5C0F\u59B9"
-  doubanid: !!python/unicode '3637739'
-'694886':
-  catalogTitle: "\u6843\u82B1\u5C0F\u59B9\uFF0811\uFF09"
-  doubanTitle: "\u6843\u82B1\u5C0F\u59B9"
-  doubanid: !!python/unicode '3637739'
-'711220':
-  catalogTitle: "\u6211\u548C\u6625\u5929\u6709\u4E2A\u7EA6\u4F1A\uFF0826\uFF09"
-  doubanTitle: "\u6211\u548C\u6625\u5929\u6709\u500B\u7D04\u6703"
-  doubanid: !!python/unicode '2983434'
-'7184':
-  catalogTitle: "\u98DF\u4EBA\u9C7C\u4E8B\u4EF6"
-  doubanTitle: "\u98DF\u4EBA\u9C7C\u4E8B\u4EF6"
-  doubanid: !!python/unicode '3035344'
-'813038':
-  catalogTitle: "\u9ECE\u660E\u4E4B\u524D\uFF0823\uFF09"
-  doubanTitle: "\u9ECE\u660E\u4E4B\u524D"
-  doubanid: !!python/unicode '4894070'
-'8540':
-  catalogTitle: "OH\uFF01\u5FC5\u80DC\u5949\u987A\u82F1-23"
-  doubanTitle: "\uC624!\uD544\uC2B9 \uBD09\uC21C\uC601"
-  doubanid: !!python/unicode '2365103'
-'902751':
-  catalogTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9\uFF082\uFF09"
-  doubanTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9"
-  doubanid: !!python/unicode '2190918'
-'914846':
-  catalogTitle: "\u59BB\u5B50\u7684\u8BF1\u60D1II\uFF0848\uFF09"
-  doubanTitle: "\uC544\uB0B4\uC758 \uC720\uD639"
-  doubanid: !!python/unicode '3284271'
 '1000003':
   catalogTitle: "\u4FA6\u63A2\u5C0F\u8BF4\uFF0825\uFF09"
   doubanTitle: "\u4FA6\u63A2\u5C0F\u8BF4"
@@ -1001,6 +50,14 @@
   catalogTitle: "\u7B11\u7740\u6D3B\u4E0B\u53BB\uFF0828\uFF09"
   doubanTitle: "\u7B11\u7740\u6D3B\u4E0B\u53BB"
   doubanid: !!python/unicode '2363972'
+'1000971':
+  catalogTitle: "\u98CE\u58F0\u4F20\u5947\uFF088\uFF09"
+  doubanTitle: "\u98CE\u58F0\u4F20\u5947"
+  doubanid: !!python/unicode '4894062'
+'1000976':
+  catalogTitle: "\u98CE\u58F0\u4F20\u5947\uFF087\uFF09"
+  doubanTitle: "\u98CE\u58F0\u4F20\u5947"
+  doubanid: !!python/unicode '4894062'
 '10018':
   catalogTitle: "\u593A\u9B44\u52FE\u9B42"
   doubanTitle: "\u596A\u9B44\u52FE\u9B42"
@@ -1321,6 +378,10 @@
   catalogTitle: "\u98CE\u58F0\u4F20\u5947\uFF0829\uFF09"
   doubanTitle: "\u98CE\u58F0\u4F20\u5947"
   doubanid: !!python/unicode '4894062'
+'1016374':
+  catalogTitle: "\u7231\u60C5\u516C\u5BD3II\uFF0818\uFF09"
+  doubanTitle: "\u7231\u60C5\u516C\u5BD33"
+  doubanid: !!python/unicode '6312211'
 '1018504':
   catalogTitle: "\u65B0\u5C11\u6797\u5BFA"
   doubanTitle: "\u65B0\u5C11\u6797\u5BFA"
@@ -1531,6 +592,18 @@
   doubanid: !!python/unicode '3114220'
 '1028273':
   catalogTitle: "\u5927\u79E6\u5E1D\u56FD\uFF0844\uFF09"
+  doubanTitle: "\u5927\u79E6\u5E1D\u56FD"
+  doubanid: !!python/unicode '3114220'
+'1028321':
+  catalogTitle: "\u5927\u79E6\u5E1D\u56FD\uFF088\uFF09"
+  doubanTitle: "\u5927\u79E6\u5E1D\u56FD"
+  doubanid: !!python/unicode '3114220'
+'1028324':
+  catalogTitle: "\u5927\u79E6\u5E1D\u56FD\uFF084\uFF09"
+  doubanTitle: "\u5927\u79E6\u5E1D\u56FD"
+  doubanid: !!python/unicode '3114220'
+'1028328':
+  catalogTitle: "\u5927\u79E6\u5E1D\u56FD\uFF0818\uFF09"
   doubanTitle: "\u5927\u79E6\u5E1D\u56FD"
   doubanid: !!python/unicode '3114220'
 '1028332':
@@ -2061,8 +1134,8 @@
   doubanid: !!python/unicode '5184261'
 '1043012':
   catalogTitle: "\u4E09\u56FD\uFF0875\uFF09"
-  doubanTitle: "\u4E09\u56FD"
-  doubanid: !!python/unicode '3237723'
+  doubanTitle: "1/75\u2019"
+  doubanid: !!python/unicode '10600263'
 '1043013':
   catalogTitle: "\u4E09\u56FD\uFF0869\uFF09"
   doubanTitle: !!python/unicode 'sixty nine'
@@ -2952,6 +2025,18 @@
   doubanid: !!python/unicode '5343604'
 '1089845':
   catalogTitle: "\u5730\u9053\u6218\uFF0829\uFF09"
+  doubanTitle: "\u5730\u9053\u6218"
+  doubanid: !!python/unicode '5343604'
+'1089853':
+  catalogTitle: "\u5730\u9053\u6218\uFF087\uFF09"
+  doubanTitle: "\u5730\u9053\u6218"
+  doubanid: !!python/unicode '5343604'
+'1089858':
+  catalogTitle: "\u5730\u9053\u6218\uFF0838\uFF09"
+  doubanTitle: "\u5730\u9053\u6218"
+  doubanid: !!python/unicode '5343604'
+'1089859':
+  catalogTitle: "\u5730\u9053\u6218\uFF0835\uFF09"
   doubanTitle: "\u5730\u9053\u6218"
   doubanid: !!python/unicode '5343604'
 '1089862':
@@ -4195,6 +3280,14 @@
   catalogTitle: "\u6697\u6218\uFF08\u4E00\uFF09"
   doubanTitle: "\u6697\u6218"
   doubanid: !!python/unicode '1298898'
+'1159686':
+  catalogTitle: "\u5730\u94C1\u60CA\u9B42"
+  doubanTitle: !!python/unicode 'Tube'
+  doubanid: !!python/unicode '1308630'
+'1159688':
+  catalogTitle: "\u6050\u6016\u8721\u50CF\u9986"
+  doubanTitle: !!python/unicode 'House of Wax'
+  doubanid: !!python/unicode '1309184'
 '1159891':
   catalogTitle: "\u7279\u6D1B\u4F0A\uFF1A\u6728\u9A6C\u5C60\u57CE"
   doubanTitle: !!python/unicode 'Troy'
@@ -4211,12 +3304,32 @@
   catalogTitle: "\u96EA\u82B1\uFF0812\uFF09"
   doubanTitle: !!python/unicode 'Snow Flower and the Secret Fan'
   doubanid: !!python/unicode '4135434'
+'1159937':
+  catalogTitle: "\u96EA\u82B1\uFF0811\uFF09"
+  doubanTitle: !!python/unicode 'Snow Flower and the Secret Fan'
+  doubanid: !!python/unicode '4135434'
 '1159997':
   catalogTitle: "\u96EA\u82B1\uFF081\uFF09"
   doubanTitle: !!python/unicode 'Snow Flower and the Secret Fan'
   doubanid: !!python/unicode '4135434'
 '1159999':
   catalogTitle: "\u96EA\u82B1\uFF086\uFF09"
+  doubanTitle: !!python/unicode 'Snow Flower and the Secret Fan'
+  doubanid: !!python/unicode '4135434'
+'1160004':
+  catalogTitle: "\u96EA\u82B1\uFF082\uFF09"
+  doubanTitle: "\u5BB6\u6709\u4ED9\u59BB\u2161"
+  doubanid: !!python/unicode '2212165'
+'1160005':
+  catalogTitle: "\u96EA\u82B1\uFF085\uFF09"
+  doubanTitle: !!python/unicode 'Snow Flower and the Secret Fan'
+  doubanid: !!python/unicode '4135434'
+'1160008':
+  catalogTitle: "\u96EA\u82B1\uFF083\uFF09"
+  doubanTitle: !!python/unicode 'Snow Flower and the Secret Fan'
+  doubanid: !!python/unicode '4135434'
+'1160009':
+  catalogTitle: "\u96EA\u82B1\uFF084\uFF09"
   doubanTitle: !!python/unicode 'Snow Flower and the Secret Fan'
   doubanid: !!python/unicode '4135434'
 '1160055':
@@ -4265,6 +3378,10 @@
   doubanid: !!python/unicode '3757315'
 '1161116':
   catalogTitle: "\u7231\u4F3C\u767E\u6C47\uFF086\uFF09"
+  doubanTitle: "\u7231\u4F3C\u767E\u6C47"
+  doubanid: !!python/unicode '3757315'
+'1161123':
+  catalogTitle: "\u7231\u4F3C\u767E\u6C47\uFF089\uFF09"
   doubanTitle: "\u7231\u4F3C\u767E\u6C47"
   doubanid: !!python/unicode '3757315'
 '1161129':
@@ -4658,6 +3775,26 @@
   catalogTitle: "\u65B0\u6C34\u6D52\u4F20I\uFF0818\uFF09"
   doubanTitle: "\u6C34\u6D52\u4F20"
   doubanid: !!python/unicode '4718246'
+'1173890':
+  catalogTitle: "\u65B0\u6C34\u6D52\u4F20I\uFF0821\uFF09"
+  doubanTitle: "\u6C34\u6D52\u4F20"
+  doubanid: !!python/unicode '4718246'
+'1173893':
+  catalogTitle: "\u65B0\u6C34\u6D52\u4F20I\uFF0826\uFF09"
+  doubanTitle: "\u6C34\u6D52\u4F20"
+  doubanid: !!python/unicode '4718246'
+'1173894':
+  catalogTitle: "\u65B0\u6C34\u6D52\u4F20I\uFF0814\uFF09"
+  doubanTitle: "\u6C34\u6D52\u4F20"
+  doubanid: !!python/unicode '4718246'
+'1173895':
+  catalogTitle: "\u65B0\u6C34\u6D52\u4F20I\uFF089\uFF09"
+  doubanTitle: "\u6C34\u6D52\u4F20"
+  doubanid: !!python/unicode '4718246'
+'1173898':
+  catalogTitle: "\u65B0\u6C34\u6D52\u4F20I\uFF0830\uFF09"
+  doubanTitle: "\u6C34\u6D52\u4F20"
+  doubanid: !!python/unicode '4718246'
 '1173901':
   catalogTitle: "\u65B0\u6C34\u6D52\u4F20I\uFF0837\uFF09"
   doubanTitle: "\u6C34\u6D52\u4F20"
@@ -4702,6 +3839,14 @@
   catalogTitle: "\u65B0\u6C34\u6D52\u4F20II\uFF0846\uFF09"
   doubanTitle: "\u6C34\u6D52\u4F20"
   doubanid: !!python/unicode '4718246'
+'1179032':
+  catalogTitle: "\u5E7F\u5E9C\u592A\u6781\u4F20\u5947\uFF089\uFF09"
+  doubanTitle: "\u5E7F\u5E9C\u592A\u6781\u4F20\u5947"
+  doubanid: !!python/unicode '4928753'
+'1179036':
+  catalogTitle: "\u5E7F\u5E9C\u592A\u6781\u4F20\u5947\uFF0812\uFF09"
+  doubanTitle: "\u5E7F\u5E9C\u592A\u6781\u4F20\u5947"
+  doubanid: !!python/unicode '4928753'
 '1179135':
   catalogTitle: "\u5E7F\u5E9C\u592A\u6781\u4F20\u5947\uFF0821\uFF09"
   doubanTitle: "\u5E7F\u5E9C\u592A\u6781\u4F20\u5947"
@@ -4786,6 +3931,14 @@
   catalogTitle: "\u5E7F\u5E9C\u592A\u6781\u4F20\u5947\uFF082\uFF09"
   doubanTitle: "\u5E7F\u5E9C\u592A\u6781\u4F20\u5947"
   doubanid: !!python/unicode '4928753'
+'1179240':
+  catalogTitle: "\u5E7F\u5E9C\u592A\u6781\u4F20\u5947\uFF0820\uFF09"
+  doubanTitle: "\u5E7F\u5E9C\u592A\u6781\u4F20\u5947"
+  doubanid: !!python/unicode '4928753'
+'1179243':
+  catalogTitle: "\u5E7F\u5E9C\u592A\u6781\u4F20\u5947\uFF0810\uFF09"
+  doubanTitle: "\u5E7F\u5E9C\u592A\u6781\u4F20\u5947"
+  doubanid: !!python/unicode '4928753'
 '1180':
   catalogTitle: "\u7B11\u7740\u6D3B\u4E0B\u53BB\uFF083\uFF09"
   doubanTitle: "\u7B11\u7740\u6D3B\u4E0B\u53BB"
@@ -4822,6 +3975,10 @@
   catalogTitle: "\u4E61\u6751\u7231\u60C5\uFF086\uFF09"
   doubanTitle: "\u4E61\u6751\u7231\u60C56"
   doubanid: !!python/unicode '10793497'
+'1184191':
+  catalogTitle: "\u4E61\u6751\u7231\u60C5\uFF0821\uFF09"
+  doubanTitle: "\u4E61\u6751\u7231\u60C5\u4EA4\u54CD\u66F2"
+  doubanid: !!python/unicode '6023499'
 '1184194':
   catalogTitle: "\u4E61\u6751\u7231\u60C5\uFF081\uFF09"
   doubanTitle: "\u4E61\u6751\u7231\u60C5\u4EA4\u54CD\u66F2"
@@ -5347,6 +4504,14 @@
   catalogTitle: "\u98CE\u4E4B\u753B\u5E08\uFF085\uFF09"
   doubanTitle: "\uBC14\uB78C\uC758 \uD654\uC6D0"
   doubanid: !!python/unicode '3226569'
+'1210774':
+  catalogTitle: "\u7236\u8F88\u7684\u65D7\u5E1C"
+  doubanTitle: "\u7236\u8F88\u7684\u65D7\u5E1C"
+  doubanid: !!python/unicode '3056440'
+'1210776':
+  catalogTitle: "\u793E\u4EA4\u7F51\u7EDC"
+  doubanTitle: !!python/unicode 'The Social Network'
+  doubanid: !!python/unicode '3205624'
 '1211':
   catalogTitle: "\u98DF\u4EBA\u9C7C\u4E8B\u4EF6"
   doubanTitle: "\u98DF\u4EBA\u9C7C\u4E8B\u4EF6"
@@ -5683,6 +4848,18 @@
   doubanid: !!python/unicode '4925454'
 '1231056':
   catalogTitle: "\u5723\u5802\u98CE\u4E91\uFF0826\uFF09"
+  doubanTitle: "\u5723\u5802\u98CE\u4E91"
+  doubanid: !!python/unicode '4925454'
+'1231090':
+  catalogTitle: "\u5723\u5802\u98CE\u4E91\uFF084\uFF09"
+  doubanTitle: "\u5723\u5802\u98CE\u4E91"
+  doubanid: !!python/unicode '4925454'
+'1231093':
+  catalogTitle: "\u5723\u5802\u98CE\u4E91\uFF0812\uFF09"
+  doubanTitle: "\u5723\u5802\u98CE\u4E91"
+  doubanid: !!python/unicode '4925454'
+'1231097':
+  catalogTitle: "\u5723\u5802\u98CE\u4E91\uFF0814\uFF09"
   doubanTitle: "\u5723\u5802\u98CE\u4E91"
   doubanid: !!python/unicode '4925454'
 '1231101':
@@ -6170,6 +5347,10 @@
   catalogTitle: "\u8D85\u4EBA\u6C14\u5B66\u56ED\uFF0818\uFF09"
   doubanTitle: "\u8D85\u4EBA\u6C14\u5B66\u56ED"
   doubanid: !!python/unicode '3001161'
+'1238973':
+  catalogTitle: "\u6768\u8D35\u5983\u79D8\u53F2\uFF0812\uFF09"
+  doubanTitle: "\u6768\u8D35\u5983\u79D8\u53F2"
+  doubanid: !!python/unicode '4202543'
 '1238977':
   catalogTitle: "\u6768\u8D35\u5983\u79D8\u53F2\uFF0836\uFF09"
   doubanTitle: "\u6768\u8D35\u5983\u79D8\u53F2"
@@ -6410,6 +5591,22 @@
   catalogTitle: "\u5341\u5927\u5947\u51A4\uFF0812\uFF09"
   doubanTitle: "\u5341\u5927\u5947\u51A4"
   doubanid: !!python/unicode '3303336'
+'1239664':
+  catalogTitle: "\u5341\u5927\u5947\u51A4\uFF0814\uFF09"
+  doubanTitle: "\u5341\u5927\u5947\u51A4"
+  doubanid: !!python/unicode '3303336'
+'1239665':
+  catalogTitle: "\u5341\u5927\u5947\u51A4\uFF0826\uFF09"
+  doubanTitle: "\u5341\u5927\u5947\u51A4"
+  doubanid: !!python/unicode '3303336'
+'1239667':
+  catalogTitle: "\u5341\u5927\u5947\u51A4\uFF0827\uFF09"
+  doubanTitle: "\u5341\u5927\u5947\u51A4"
+  doubanid: !!python/unicode '3303336'
+'1239669':
+  catalogTitle: "\u5341\u5927\u5947\u51A4\uFF0810\uFF09"
+  doubanTitle: "\u5341\u5927\u5947\u51A4"
+  doubanid: !!python/unicode '3303336'
 '1239671':
   catalogTitle: "\u6768\u8D35\u5983\u79D8\u53F2\uFF0840\uFF09"
   doubanTitle: "\u6768\u8D35\u5983\u79D8\u53F2"
@@ -6610,6 +5807,10 @@
   catalogTitle: "\u5E78\u798F\u6765\u6572\u95E8\u6E05\u6670\u7248\uFF0829\uFF09"
   doubanTitle: "\u5E78\u798F\u6765\u6572\u95E8"
   doubanid: !!python/unicode '5966739'
+'1242041':
+  catalogTitle: "\u5E78\u798F\u6765\u6572\u95E8\u6E05\u6670\u7248\uFF0811\uFF09"
+  doubanTitle: "\u5E78\u798F\u6765\u6572\u95E8"
+  doubanid: !!python/unicode '5966739'
 '1242055':
   catalogTitle: "\u5E78\u798F\u6765\u6572\u95E8\u6E05\u6670\u7248\uFF0823\uFF09"
   doubanTitle: "\u5E78\u798F\u6765\u6572\u95E8"
@@ -6790,6 +5991,10 @@
   catalogTitle: "\u6B65\u6B65\u60CA\u5FC3\uFF0813\uFF09"
   doubanTitle: "\u6B65\u6B65\u60CA\u5FC3"
   doubanid: !!python/unicode '5384548'
+'1250887':
+  catalogTitle: "HD_\u524D\u5EA6"
+  doubanTitle: "\u524D\u5EA6"
+  doubanid: !!python/unicode '4709904'
 '1250895':
   catalogTitle: "HD_\u62EF\u6551\u5C0F\u5154"
   doubanTitle: !!python/unicode 'Hop'
@@ -6872,6 +6077,14 @@
   doubanid: !!python/unicode '4271894'
 '1251276':
   catalogTitle: "HD_\u667A\u8005\u65E0\u654C\uFF088\uFF09"
+  doubanTitle: "\u667A\u8005\u65E0\u654C"
+  doubanid: !!python/unicode '4858787'
+'1251281':
+  catalogTitle: "HD_\u82B1\u6728\u5170"
+  doubanTitle: "\u82B1\u6728\u862D"
+  doubanid: !!python/unicode '2076923'
+'1251286':
+  catalogTitle: "HD_\u667A\u8005\u65E0\u654C\uFF0822\uFF09"
   doubanTitle: "\u667A\u8005\u65E0\u654C"
   doubanid: !!python/unicode '4858787'
 '1251290':
@@ -7911,6 +7124,10 @@
   catalogTitle: "\u94F6\u884C\u532A\u5E2E"
   doubanTitle: !!python/unicode 'Takers'
   doubanid: !!python/unicode '3158432'
+'1275424':
+  catalogTitle: "\u4E03\u5929"
+  doubanTitle: "\uC138\uBE10\uB370\uC774\uC988"
+  doubanid: !!python/unicode '2999500'
 '127548':
   catalogTitle: "\u7EA2\u706F\u8BB0-29"
   doubanTitle: "\u7EA2\u706F\u8BB0"
@@ -8009,6 +7226,10 @@
   doubanid: !!python/unicode '5975082'
 '1275562':
   catalogTitle: "\u63A9\u62A4\uFF0816\uFF09"
+  doubanTitle: "\u63A9\u62A4"
+  doubanid: !!python/unicode '5975082'
+'1275613':
+  catalogTitle: "\u63A9\u62A4\uFF087\uFF09"
   doubanTitle: "\u63A9\u62A4"
   doubanid: !!python/unicode '5975082'
 '127570':
@@ -8367,6 +7588,22 @@
   catalogTitle: "\u9752\u76F2\uFF0820\uFF09"
   doubanTitle: "\u7A7F\u8D8A\u96C6\u4E2D\u8425"
   doubanid: !!python/unicode '5031728'
+'1288540':
+  catalogTitle: "\u9752\u76F2\uFF081\uFF09"
+  doubanTitle: "\u7A7F\u8D8A\u96C6\u4E2D\u8425"
+  doubanid: !!python/unicode '5031728'
+'1288545':
+  catalogTitle: "\u9752\u76F2\uFF084\uFF09"
+  doubanTitle: "\u7A7F\u8D8A\u96C6\u4E2D\u8425"
+  doubanid: !!python/unicode '5031728'
+'1288547':
+  catalogTitle: "\u9752\u76F2\uFF082\uFF09"
+  doubanTitle: "\u7A7F\u8D8A\u96C6\u4E2D\u8425"
+  doubanid: !!python/unicode '5031728'
+'1288549':
+  catalogTitle: "\u9752\u76F2\uFF085\uFF09"
+  doubanTitle: "\u7A7F\u8D8A\u96C6\u4E2D\u8425"
+  doubanid: !!python/unicode '5031728'
 '1288574':
   catalogTitle: "\u9752\u76F2\uFF086\uFF09"
   doubanTitle: "\u7A7F\u8D8A\u96C6\u4E2D\u8425"
@@ -8425,6 +7662,10 @@
   doubanid: !!python/unicode '5031728'
 '1288668':
   catalogTitle: "\u9752\u76F2\uFF083\uFF09"
+  doubanTitle: "\u7A7F\u8D8A\u96C6\u4E2D\u8425"
+  doubanid: !!python/unicode '5031728'
+'1288718':
+  catalogTitle: "\u9752\u76F2\uFF0825\uFF09"
   doubanTitle: "\u7A7F\u8D8A\u96C6\u4E2D\u8425"
   doubanid: !!python/unicode '5031728'
 '1288720':
@@ -8722,6 +7963,22 @@
   doubanid: !!python/unicode '4187633'
 '1300187':
   catalogTitle: "\u91D1\u5927\u73ED\u3000\uFF0827\uFF09"
+  doubanTitle: "\u91D1\u5927\u73ED"
+  doubanid: !!python/unicode '4187633'
+'1300190':
+  catalogTitle: "\u91D1\u5927\u73ED\u3000\uFF0830\uFF09"
+  doubanTitle: "\u91D1\u5927\u73ED"
+  doubanid: !!python/unicode '4187633'
+'1300192':
+  catalogTitle: "\u91D1\u5927\u73ED\u3000\uFF0829\uFF09"
+  doubanTitle: "\u91D1\u5927\u73ED"
+  doubanid: !!python/unicode '4187633'
+'1300194':
+  catalogTitle: "\u91D1\u5927\u73ED\u3000\uFF0833\uFF09"
+  doubanTitle: "\u91D1\u5927\u73ED"
+  doubanid: !!python/unicode '4187633'
+'1300197':
+  catalogTitle: "\u91D1\u5927\u73ED\u3000\uFF0832\uFF09"
   doubanTitle: "\u91D1\u5927\u73ED"
   doubanid: !!python/unicode '4187633'
 '1300202':
@@ -9152,6 +8409,11 @@
   catalogTitle: "\u846C\u793C\u4E0A\u7684\u6B7B\u4EA1"
   doubanTitle: !!python/unicode 'Death at a Funeral'
   doubanid: !!python/unicode '2003389'
+'1312369':
+  catalogTitle: "\u8D85\u80FD\u6E38\u620F\u8005"
+  doubanTitle: "\u0413\u0435\u0439\u043C\u0435\u0440\u044B. \u0412 \u043F\u043E\u0438\
+    \u0441\u043A\u0430\u0445 \u0446\u0435\u043B\u0438"
+  doubanid: !!python/unicode '6428516'
 '1312386':
   catalogTitle: "\u51B0\u6CB3\u4E16\u7EAA"
   doubanTitle: !!python/unicode 'Ice Age: A Mammoth Christmas'
@@ -9817,6 +9079,10 @@
   catalogTitle: "HD_\u4E0D\u826F\u60C5\u4FA3\uFF0813\uFF09"
   doubanTitle: "\uBD88\uB7C9\uCEE4\uD50C"
   doubanid: !!python/unicode '2274866'
+'1330364':
+  catalogTitle: "HD_\u674E\u732E\u8BA1\u5386\u9669\u8BB0"
+  doubanTitle: "\u674E\u732E\u8BA1\u5386\u9669\u8BB0"
+  doubanid: !!python/unicode '4226741'
 '1331':
   catalogTitle: "\u7EA2\u5A18"
   doubanTitle: "\u7EA2\u5A18"
@@ -10001,6 +9267,10 @@
   catalogTitle: "\u6444\u6C0F32\u5EA6"
   doubanTitle: "\u6444\u6C0F32\u5EA6"
   doubanid: !!python/unicode '1297525'
+'1335819':
+  catalogTitle: "\u79D8\u5BC6\u82B1\u56ED\uFF085\uFF09"
+  doubanTitle: "\u3072\u307F\u3064\u306E\u82B1\u5712"
+  doubanid: !!python/unicode '1720137'
 '1335823':
   catalogTitle: "\u79D8\u5BC6\u82B1\u56ED\uFF0813\uFF09"
   doubanTitle: "\u3072\u307F\u3064\u306E\u82B1\u5712"
@@ -10507,6 +9777,26 @@
   doubanid: !!python/unicode '6801450'
 '1337877':
   catalogTitle: "HD_\u65AD\u523A\uFF0826\uFF09"
+  doubanTitle: "\u65AD\u523A"
+  doubanid: !!python/unicode '6801450'
+'1337881':
+  catalogTitle: "HD_\u65AD\u523A\uFF0811\uFF09"
+  doubanTitle: "\u65AD\u523A"
+  doubanid: !!python/unicode '6801450'
+'1337883':
+  catalogTitle: "HD_\u65AD\u523A\uFF087\uFF09"
+  doubanTitle: "\u65AD\u523A"
+  doubanid: !!python/unicode '6801450'
+'1337884':
+  catalogTitle: "HD_\u65AD\u523A\uFF0815\uFF09"
+  doubanTitle: "\u65AD\u523A"
+  doubanid: !!python/unicode '6801450'
+'1337887':
+  catalogTitle: "\u6D41\u661F\u7684\u542F\u793A"
+  doubanTitle: !!python/unicode 'Meteor Apocalypse'
+  doubanid: !!python/unicode '4745748'
+'1337889':
+  catalogTitle: "HD_\u65AD\u523A\uFF0818\uFF09"
   doubanTitle: "\u65AD\u523A"
   doubanid: !!python/unicode '6801450'
 '1337891':
@@ -12671,6 +11961,10 @@
   catalogTitle: "\u6D6A\u6F2B\u5411\u5DE6\u5A5A\u59FB\u5F80\u53F3\uFF0820\uFF09"
   doubanTitle: "\u6D6A\u6F2B\u5411\u5DE6\uFF0C\u5A5A\u59FB\u5F80\u53F3"
   doubanid: !!python/unicode '6799161'
+'1360310':
+  catalogTitle: "\u6D6A\u6F2B\u5411\u5DE6\u5A5A\u59FB\u5F80\u53F3\uFF0828\uFF09"
+  doubanTitle: "\u6D6A\u6F2B\u5411\u5DE6\uFF0C\u5A5A\u59FB\u5F80\u53F3"
+  doubanid: !!python/unicode '6799161'
 '1360356':
   catalogTitle: "\u6D6A\u6F2B\u5411\u5DE6\u5A5A\u59FB\u5F80\u53F3\uFF0829\uFF09"
   doubanTitle: "\u6D6A\u6F2B\u5411\u5DE6\uFF0C\u5A5A\u59FB\u5F80\u53F3"
@@ -13187,6 +12481,10 @@
   catalogTitle: "\u82B1\u7F8E\u7537\u62C9\u9762\u9986\uFF085\uFF09"
   doubanTitle: "\uAF43\uBBF8\uB0A8 \uB77C\uBA74\uAC00\uAC8C"
   doubanid: !!python/unicode '6810832'
+'1368877':
+  catalogTitle: "\u5B8C\u7F8E\u7684\u4E16\u754C"
+  doubanTitle: !!python/unicode 'A Perfect World'
+  doubanid: !!python/unicode '1300992'
 '1368935':
   catalogTitle: "\u5FE0\u5978\u4EBA"
   doubanTitle: !!python/unicode 'Donnie Brasco'
@@ -13289,6 +12587,14 @@
   doubanid: !!python/unicode '1303376'
 '1370236':
   catalogTitle: "HD_\u91D1\u679D\u7389\u53F6\uFF0835\uFF09"
+  doubanTitle: "\u91D1\u679D\u7389\u53F6"
+  doubanid: !!python/unicode '1303376'
+'1370244':
+  catalogTitle: "HD_\u91D1\u679D\u7389\u53F6\uFF0846\uFF09"
+  doubanTitle: "\u91D1\u679D\u7389\u53F6"
+  doubanid: !!python/unicode '1303376'
+'1370248':
+  catalogTitle: "HD_\u91D1\u679D\u7389\u53F6\uFF0847\uFF09"
   doubanTitle: "\u91D1\u679D\u7389\u53F6"
   doubanid: !!python/unicode '1303376'
 '1370250':
@@ -13599,6 +12905,10 @@
   catalogTitle: "\u53E4\u4ECA\u5927\u6218\u79E6\u4FD1\u60C5\uFF0838\uFF09"
   doubanTitle: "\u53E4\u4ECA\u5927\u6218\u79E6\u4FD1\u60C5"
   doubanid: !!python/unicode '1300082'
+'1373323':
+  catalogTitle: "\u53E4\u4ECA\u5927\u6218\u79E6\u4FD1\u60C5\uFF0841\uFF09"
+  doubanTitle: "\u53E4\u4ECA\u5927\u6218\u79E6\u4FD1\u60C5"
+  doubanid: !!python/unicode '1300082'
 '1373326':
   catalogTitle: "\u53E4\u4ECA\u5927\u6218\u79E6\u4FD1\u60C5\uFF0830\uFF09"
   doubanTitle: "\u53E4\u4ECA\u5927\u6218\u79E6\u4FD1\u60C5"
@@ -13807,6 +13117,18 @@
   catalogTitle: "\u9999\u683C\u91CC\u62C9\uFF0811\uFF09"
   doubanTitle: "\u9999\u683C\u91CC\u62C9(shangri-la)"
   doubanid: !!python/unicode '3732745'
+'1374820':
+  catalogTitle: "\u9999\u683C\u91CC\u62C9\uFF0834\uFF09"
+  doubanTitle: "\u9999\u683C\u91CC\u62C9(shangri-la)"
+  doubanid: !!python/unicode '3732745'
+'1374822':
+  catalogTitle: "\u9999\u683C\u91CC\u62C9\uFF0812\uFF09"
+  doubanTitle: "\u9999\u683C\u91CC\u62C9(shangri-la)"
+  doubanid: !!python/unicode '3732745'
+'1374824':
+  catalogTitle: "\u9999\u683C\u91CC\u62C9\uFF086\uFF09"
+  doubanTitle: "\u9999\u683C\u91CC\u62C9(shangri-la)"
+  doubanid: !!python/unicode '3732745'
 '1374910':
   catalogTitle: "\u9999\u683C\u91CC\u62C9\uFF0822\uFF09"
   doubanTitle: "\u9999\u683C\u91CC\u62C9(shangri-la)"
@@ -13825,6 +13147,18 @@
   doubanid: !!python/unicode '3732745'
 '1374919':
   catalogTitle: "\u9999\u683C\u91CC\u62C9\uFF089\uFF09"
+  doubanTitle: "\u9999\u683C\u91CC\u62C9(shangri-la)"
+  doubanid: !!python/unicode '3732745'
+'1374921':
+  catalogTitle: "\u9999\u683C\u91CC\u62C9\uFF083\uFF09"
+  doubanTitle: "\u9999\u683C\u91CC\u62C9(shangri-la)"
+  doubanid: !!python/unicode '3732745'
+'1374924':
+  catalogTitle: "\u9999\u683C\u91CC\u62C9\uFF0810\uFF09"
+  doubanTitle: "\u9999\u683C\u91CC\u62C9(shangri-la)"
+  doubanid: !!python/unicode '3732745'
+'1374929':
+  catalogTitle: "\u9999\u683C\u91CC\u62C9\uFF085\uFF09"
   doubanTitle: "\u9999\u683C\u91CC\u62C9(shangri-la)"
   doubanid: !!python/unicode '3732745'
 '1374930':
@@ -13977,6 +13311,26 @@
   doubanid: !!python/unicode '5384549'
 '1377999':
   catalogTitle: "\u5973\u5B50\u620F\u73ED\uFF0837\uFF09"
+  doubanTitle: "\u5973\u5B50\u620F\u73ED"
+  doubanid: !!python/unicode '3619108'
+'1378000':
+  catalogTitle: "\u5973\u5B50\u620F\u73ED\uFF0819\uFF09"
+  doubanTitle: "\u5973\u5B50\u620F\u73ED"
+  doubanid: !!python/unicode '3619108'
+'1378002':
+  catalogTitle: "\u5973\u5B50\u620F\u73ED\uFF0824\uFF09"
+  doubanTitle: "\u5973\u5B50\u620F\u73ED"
+  doubanid: !!python/unicode '3619108'
+'1378005':
+  catalogTitle: "\u5973\u5B50\u620F\u73ED\uFF087\uFF09"
+  doubanTitle: "\u5973\u5B50\u620F\u73ED"
+  doubanid: !!python/unicode '3619108'
+'1378008':
+  catalogTitle: "\u5973\u5B50\u620F\u73ED\uFF0829\uFF09"
+  doubanTitle: "\u5973\u5B50\u620F\u73ED"
+  doubanid: !!python/unicode '3619108'
+'1378009':
+  catalogTitle: "\u5973\u5B50\u620F\u73ED\uFF0816\uFF09"
   doubanTitle: "\u5973\u5B50\u620F\u73ED"
   doubanid: !!python/unicode '3619108'
 '1378014':
@@ -14353,6 +13707,26 @@
   doubanid: !!python/unicode '5395263'
 '1380969':
   catalogTitle: "\u6B66\u5219\u5929\u79D8\u53F2\uFF0847\uFF09"
+  doubanTitle: "\u6B66\u5219\u5929\u79D8\u53F2"
+  doubanid: !!python/unicode '6003256'
+'1380970':
+  catalogTitle: "\u6B66\u5219\u5929\u79D8\u53F2\uFF082\uFF09"
+  doubanTitle: "\u6B66\u5219\u5929\u79D8\u53F2"
+  doubanid: !!python/unicode '6003256'
+'1380971':
+  catalogTitle: "\u6B66\u5219\u5929\u79D8\u53F2\uFF0827\uFF09"
+  doubanTitle: "\u6B66\u5219\u5929\u79D8\u53F2"
+  doubanid: !!python/unicode '6003256'
+'1380973':
+  catalogTitle: "\u6B66\u5219\u5929\u79D8\u53F2\uFF0835\uFF09"
+  doubanTitle: "\u6B66\u5219\u5929\u79D8\u53F2"
+  doubanid: !!python/unicode '6003256'
+'1380975':
+  catalogTitle: "\u6B66\u5219\u5929\u79D8\u53F2\uFF0823\uFF09"
+  doubanTitle: "\u6B66\u5219\u5929\u79D8\u53F2"
+  doubanid: !!python/unicode '6003256'
+'1380978':
+  catalogTitle: "\u6B66\u5219\u5929\u79D8\u53F2\uFF0844\uFF09"
   doubanTitle: "\u6B66\u5219\u5929\u79D8\u53F2"
   doubanid: !!python/unicode '6003256'
 '1380981':
@@ -15051,18 +14425,22 @@
   catalogTitle: "\u79D8\u6740\u540D\u5355\uFF0823\uFF09"
   doubanTitle: "\u79D8\u6740\u540D\u5355"
   doubanid: !!python/unicode '6724677'
+'1392101':
+  catalogTitle: "\u79D8\u6740\u540D\u5355\uFF0818\uFF09"
+  doubanTitle: "\u79D8\u6740\u540D\u5355"
+  doubanid: !!python/unicode '6724677'
 '1392105':
   catalogTitle: "\u79D8\u6740\u540D\u5355\uFF0812\uFF09"
+  doubanTitle: "\u79D8\u6740\u540D\u5355"
+  doubanid: !!python/unicode '6724677'
+'1392107':
+  catalogTitle: "\u79D8\u6740\u540D\u5355\uFF0826\uFF09"
   doubanTitle: "\u79D8\u6740\u540D\u5355"
   doubanid: !!python/unicode '6724677'
 '1392110':
   catalogTitle: "\u79D8\u6740\u540D\u5355\uFF0814\uFF09"
   doubanTitle: "\u79D8\u6740\u540D\u5355"
   doubanid: !!python/unicode '6724677'
-'1392116':
-  catalogTitle: "\u5929\u9645\u6D69\u52AB"
-  doubanTitle: !!python/unicode 'Skyline'
-  doubanid: !!python/unicode '4919019'
 '1392128':
   catalogTitle: "\u79D8\u6740\u540D\u5355\uFF0829\uFF09"
   doubanTitle: "\u79D8\u6740\u540D\u5355"
@@ -15311,6 +14689,14 @@
   catalogTitle: "\u503E\u4E16\u7687\u5983\uFF0839\uFF09VOD"
   doubanTitle: "\u503E\u4E16\u7687\u5983"
   doubanid: !!python/unicode '5384549'
+'1393667':
+  catalogTitle: "\u51F0\u56FE\u817E\uFF088\uFF09"
+  doubanTitle: "\u51F0\u56FE\u817E"
+  doubanid: !!python/unicode '6309373'
+'1393668':
+  catalogTitle: "\u51F0\u56FE\u817E\uFF087\uFF09"
+  doubanTitle: "\u51F0\u56FE\u817E"
+  doubanid: !!python/unicode '6309373'
 '1394232':
   catalogTitle: "HD_\u8D75\u6C0F\u5B64\u513F\uFF082011\uFF09"
   doubanTitle: "\u8D75\u6C0F\u5B64\u513F"
@@ -15419,6 +14805,18 @@
   catalogTitle: "\u840D\u8E2A\u4FA0\u5F71\uFF0817\uFF09\u6E05\u6670\u7248"
   doubanTitle: "\u840D\u8E2A\u4FA0\u5F71"
   doubanid: !!python/unicode '3137852'
+'1395831':
+  catalogTitle: "\u840D\u8E2A\u4FA0\u5F71\uFF0816\uFF09\u6E05\u6670\u7248"
+  doubanTitle: "\u840D\u8E2A\u4FA0\u5F71"
+  doubanid: !!python/unicode '3137852'
+'1395834':
+  catalogTitle: "\u840D\u8E2A\u4FA0\u5F71\uFF0820\uFF09\u6E05\u6670\u7248"
+  doubanTitle: "\u840D\u8E2A\u4FA0\u5F71"
+  doubanid: !!python/unicode '3137852'
+'1395837':
+  catalogTitle: "\u840D\u8E2A\u4FA0\u5F71\uFF0818\uFF09\u6E05\u6670\u7248"
+  doubanTitle: "\u840D\u8E2A\u4FA0\u5F71"
+  doubanid: !!python/unicode '3137852'
 '1395840':
   catalogTitle: "\u840D\u8E2A\u4FA0\u5F71\uFF0819\uFF09\u6E05\u6670\u7248"
   doubanTitle: "\u840D\u8E2A\u4FA0\u5F71"
@@ -15487,6 +14885,10 @@
   catalogTitle: "\u840D\u8E2A\u4FA0\u5F71\uFF0821\uFF09\u6E05\u6670\u7248"
   doubanTitle: "\u840D\u8E2A\u4FA0\u5F71"
   doubanid: !!python/unicode '3137852'
+'1396943':
+  catalogTitle: "\u8C0D\u5F71\u91CD\u91CD3\uFF082011\uFF09"
+  doubanTitle: !!python/unicode 'The Bourne Ultimatum'
+  doubanid: !!python/unicode '1578507'
 '1397082':
   catalogTitle: "\u51F0\u56FE\u817E\uFF0811\uFF09"
   doubanTitle: "\u51F0\u56FE\u817E"
@@ -15599,6 +15001,10 @@
   catalogTitle: "Hello\uFF01\u6811\u5148\u751F"
   doubanTitle: "Hello\uFF01\u6811\u5148\u751F"
   doubanid: !!python/unicode '4135710'
+'1398820':
+  catalogTitle: "\u5357\u4EAC\u5357\u4EAC"
+  doubanTitle: "\u5357\u4EAC\uFF01\u5357\u4EAC\uFF01"
+  doubanid: !!python/unicode '2294568'
 '1398823':
   catalogTitle: "\u4E0D\u518D\u8BA9\u4F60\u5B64\u5355"
   doubanTitle: "\u4E0D\u518D\u8BA9\u4F60\u5B64\u5355"
@@ -15915,6 +15321,14 @@
   catalogTitle: "\u58EB\u5175\u7A81\u51FB\uFF0811\uFF09\u6E05\u6670\u7248"
   doubanTitle: "\u58EB\u5175\u7A81\u51FB"
   doubanid: !!python/unicode '2154096'
+'1404416':
+  catalogTitle: "\u58EB\u5175\u7A81\u51FB\uFF0814\uFF09\u6E05\u6670\u7248"
+  doubanTitle: "\u58EB\u5175\u7A81\u51FB"
+  doubanid: !!python/unicode '2154096'
+'1404418':
+  catalogTitle: "\u58EB\u5175\u7A81\u51FB\uFF0819\uFF09\u6E05\u6670\u7248"
+  doubanTitle: "\u58EB\u5175\u7A81\u51FB"
+  doubanid: !!python/unicode '2154096'
 '1404419':
   catalogTitle: "\u58EB\u5175\u7A81\u51FB\uFF0817\uFF09\u6E05\u6670\u7248"
   doubanTitle: "\u58EB\u5175\u7A81\u51FB"
@@ -16151,10 +15565,18 @@
   catalogTitle: "\u4E2D\u56FD\u5730\uFF0819\uFF09"
   doubanTitle: "\u4E2D\u56FD\u5730"
   doubanid: !!python/unicode '5031720'
+'1405171':
+  catalogTitle: "\u4E2D\u56FD\u5730\uFF0820\uFF09"
+  doubanTitle: "\u4E2D\u56FD\u5730"
+  doubanid: !!python/unicode '5031720'
 '1406395':
   catalogTitle: "\u8DB3\u8FF9"
   doubanTitle: !!python/unicode 'Sleuth'
   doubanid: !!python/unicode '1887455'
+'1406483':
+  catalogTitle: "\u6B7B\u4EA1\u98DE\u8F66\uFF082011\uFF09"
+  doubanTitle: !!python/unicode 'Death Race'
+  doubanid: !!python/unicode '2132412'
 '140674':
   catalogTitle: "\u8D70\u897F\u53E3\uFF086\uFF09"
   doubanTitle: "\u8D70\u897F\u53E3"
@@ -16359,6 +15781,26 @@
   catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CI\uFF0815\uFF09"
   doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
   doubanid: !!python/unicode '4935039'
+'1409451':
+  catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CI\uFF0813\uFF09"
+  doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
+  doubanid: !!python/unicode '4935039'
+'1409453':
+  catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CI\uFF0814\uFF09"
+  doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
+  doubanid: !!python/unicode '4935039'
+'1409455':
+  catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CI\uFF0812\uFF09"
+  doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
+  doubanid: !!python/unicode '4935039'
+'1409456':
+  catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CI\uFF0811\uFF09"
+  doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
+  doubanid: !!python/unicode '4935039'
+'1409458':
+  catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CI\uFF0816\uFF09"
+  doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
+  doubanid: !!python/unicode '4935039'
 '1409460':
   catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CI\uFF0817\uFF09"
   doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
@@ -16459,6 +15901,10 @@
   catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CII\uFF0814\uFF09"
   doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
   doubanid: !!python/unicode '4935039'
+'1410723':
+  catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CII\uFF0813\uFF09"
+  doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
+  doubanid: !!python/unicode '4935039'
 '1410742':
   catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CII\uFF0815\uFF09"
   doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
@@ -16523,6 +15969,14 @@
   catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CII\uFF0829\uFF09"
   doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
   doubanid: !!python/unicode '4935039'
+'1410840':
+  catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CII\uFF081\uFF09"
+  doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
+  doubanid: !!python/unicode '4935039'
+'1410845':
+  catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CII\uFF0832\uFF09"
+  doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
+  doubanid: !!python/unicode '4935039'
 '1410850':
   catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CII\uFF082\uFF09"
   doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
@@ -16577,6 +16031,10 @@
   doubanid: !!python/unicode '4935039'
 '1411035':
   catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CII\uFF0837\uFF09"
+  doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
+  doubanid: !!python/unicode '4935039'
+'1411108':
+  catalogTitle: "\u65B0\u8FD8\u73E0\u683C\u683CIII\uFF084\uFF09"
   doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
   doubanid: !!python/unicode '4935039'
 '1411119':
@@ -16934,6 +16392,26 @@
   catalogTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F\uFF089\uFF09"
   doubanTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F"
   doubanid: !!python/unicode '6899937'
+'1415264':
+  catalogTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F\uFF086\uFF09"
+  doubanTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F"
+  doubanid: !!python/unicode '6899937'
+'1415266':
+  catalogTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F\uFF088\uFF09"
+  doubanTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F"
+  doubanid: !!python/unicode '6899937'
+'1415269':
+  catalogTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F\uFF084\uFF09"
+  doubanTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F"
+  doubanid: !!python/unicode '6899937'
+'1415271':
+  catalogTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F\uFF087\uFF09"
+  doubanTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F"
+  doubanid: !!python/unicode '6899937'
+'1415273':
+  catalogTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F\uFF085\uFF09"
+  doubanTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F"
+  doubanid: !!python/unicode '6899937'
 '1415276':
   catalogTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F\uFF0819\uFF09"
   doubanTitle: "\u9501\u5B9A\u7F8E\u519B\u7279\u4F7F"
@@ -17190,6 +16668,10 @@
   catalogTitle: "HD_\u6B66\u5219\u5929\u79D8\u53F2\uFF0814\uFF09"
   doubanTitle: "\u6B66\u5219\u5929\u79D8\u53F2"
   doubanid: !!python/unicode '6003256'
+'1417041':
+  catalogTitle: "HD_\u6B66\u5219\u5929\u79D8\u53F2\uFF086\uFF09"
+  doubanTitle: "\u6B66\u5219\u5929\u79D8\u53F2"
+  doubanid: !!python/unicode '6003256'
 '1417053':
   catalogTitle: "HD_\u6B66\u5219\u5929\u79D8\u53F2\uFF0839\uFF09"
   doubanTitle: "\u6B66\u5219\u5929\u79D8\u53F2"
@@ -17308,6 +16790,14 @@
   doubanid: !!python/unicode '6003256'
 '1417308':
   catalogTitle: "HD_\u6B66\u5219\u5929\u79D8\u53F2\uFF0811\uFF09"
+  doubanTitle: "\u6B66\u5219\u5929\u79D8\u53F2"
+  doubanid: !!python/unicode '6003256'
+'1417310':
+  catalogTitle: "HD_\u6B66\u5219\u5929\u79D8\u53F2\uFF0823\uFF09"
+  doubanTitle: "\u6B66\u5219\u5929\u79D8\u53F2"
+  doubanid: !!python/unicode '6003256'
+'1417314':
+  catalogTitle: "HD_\u6B66\u5219\u5929\u79D8\u53F2\uFF0828\uFF09"
   doubanTitle: "\u6B66\u5219\u5929\u79D8\u53F2"
   doubanid: !!python/unicode '6003256'
 '1417324':
@@ -17688,6 +17178,10 @@
   doubanid: !!python/unicode '4718246'
 '1418538':
   catalogTitle: "HD_\u65B0\u6C34\u6D52\uFF0865\uFF09"
+  doubanTitle: "\u6C34\u6D52\u4F20"
+  doubanid: !!python/unicode '4718246'
+'1418543':
+  catalogTitle: "HD_\u65B0\u6C34\u6D52\uFF0867\uFF09"
   doubanTitle: "\u6C34\u6D52\u4F20"
   doubanid: !!python/unicode '4718246'
 '1418555':
@@ -18138,6 +17632,10 @@
   catalogTitle: "\u8C01\u6765\u4F3A\u5019\u5988\uFF083\uFF09"
   doubanTitle: "\u8C01\u6765\u4F3A\u5019\u5988"
   doubanid: !!python/unicode '6961167'
+'1420402':
+  catalogTitle: "\u8C01\u6765\u4F3A\u5019\u5988\uFF089\uFF09"
+  doubanTitle: "\u8C01\u6765\u4F3A\u5019\u5988"
+  doubanid: !!python/unicode '6961167'
 '1420635':
   catalogTitle: "\u7231\u60C5\u7761\u9192\u4E86\uFF085\uFF09"
   doubanTitle: "\u7231\u60C5\u7761\u9192\u4E86"
@@ -18328,6 +17826,10 @@
   doubanid: !!python/unicode '4858787'
 '1421419':
   catalogTitle: "\u667A\u8005\u65E0\u654C\uFF0810\uFF09"
+  doubanTitle: "\u667A\u8005\u65E0\u654C"
+  doubanid: !!python/unicode '4858787'
+'1421431':
+  catalogTitle: "\u667A\u8005\u65E0\u654C\uFF0821\uFF09"
   doubanTitle: "\u667A\u8005\u65E0\u654C"
   doubanid: !!python/unicode '4858787'
 '1421508':
@@ -18688,6 +18190,10 @@
   doubanid: !!python/unicode '4047001'
 '1422133':
   catalogTitle: "HD_\u6C38\u4E0D\u56DE\u5934\uFF0811\uFF09"
+  doubanTitle: "\u6C38\u4E0D\u56DE\u5934"
+  doubanid: !!python/unicode '4047001'
+'1422143':
+  catalogTitle: "HD_\u6C38\u4E0D\u56DE\u5934\uFF0813\uFF09"
   doubanTitle: "\u6C38\u4E0D\u56DE\u5934"
   doubanid: !!python/unicode '4047001'
 '1422152':
@@ -19885,6 +19391,22 @@
   catalogTitle: "\u87B3\u8782\uFF085\uFF09"
   doubanTitle: "\u87B3\u8782"
   doubanid: !!python/unicode '6534069'
+'1427453':
+  catalogTitle: "\u87B3\u8782\uFF0824\uFF09"
+  doubanTitle: "\u87B3\u8782"
+  doubanid: !!python/unicode '6534069'
+'1427455':
+  catalogTitle: "\u87B3\u8782\uFF0832\uFF09"
+  doubanTitle: "\u87B3\u8782"
+  doubanid: !!python/unicode '6534069'
+'1427457':
+  catalogTitle: "\u87B3\u8782\uFF0825\uFF09"
+  doubanTitle: "\u87B3\u8782"
+  doubanid: !!python/unicode '6534069'
+'1427459':
+  catalogTitle: "\u87B3\u8782\uFF0823\uFF09"
+  doubanTitle: "\u87B3\u8782"
+  doubanid: !!python/unicode '6534069'
 '1427463':
   catalogTitle: "\u87B3\u8782\uFF0827\uFF09"
   doubanTitle: "\u87B3\u8782"
@@ -20317,6 +19839,10 @@
   catalogTitle: "\u65B0\u5993\u751F\u4F20\uFF0816\uFF09"
   doubanTitle: "\uC2E0\uAE30\uC0DD\uB390"
   doubanid: !!python/unicode '5937932'
+'1428042':
+  catalogTitle: "\u65B0\u5993\u751F\u4F20\uFF0829\uFF09"
+  doubanTitle: "\uC2E0\uAE30\uC0DD\uB390"
+  doubanid: !!python/unicode '5937932'
 '1428045':
   catalogTitle: "\u65B0\u5993\u751F\u4F20\uFF0837\uFF09"
   doubanTitle: "\uC2E0\uAE30\uC0DD\uB390"
@@ -20377,6 +19903,14 @@
   catalogTitle: "\u65B0\u5993\u751F\u4F20\uFF081\uFF09"
   doubanTitle: "\uC2E0\uAE30\uC0DD\uB390"
   doubanid: !!python/unicode '5937932'
+'1428787':
+  catalogTitle: "\u4E00\u4E00\u5411\u524D\u51B2\uFF0816\uFF09"
+  doubanTitle: "\u4E00\u4E00\u5411\u524D\u51B2"
+  doubanid: !!python/unicode '5279645'
+'1428788':
+  catalogTitle: "\u4E00\u4E00\u5411\u524D\u51B2\uFF085\uFF09"
+  doubanTitle: "\u4E00\u4E00\u5411\u524D\u51B2"
+  doubanid: !!python/unicode '5279645'
 '1428790':
   catalogTitle: "\u4E00\u4E00\u5411\u524D\u51B2\uFF084\uFF09"
   doubanTitle: "\u4E00\u4E00\u5411\u524D\u51B2"
@@ -20505,6 +20039,18 @@
   catalogTitle: "\u5343\u91CC\u8D70\u5355\u9A91"
   doubanTitle: "\u5343\u91CC\u8D70\u5355\u9A91"
   doubanid: !!python/unicode '1422952'
+'1429170':
+  catalogTitle: "\u5200\u89C1\u7B11"
+  doubanTitle: "\u5200\u89C1\u7B11"
+  doubanid: !!python/unicode '4051608'
+'1429174':
+  catalogTitle: "\u7434\u52A8\u6211\u5FC3"
+  doubanTitle: "\u7434\u52A8\u6211\u5FC3"
+  doubanid: !!python/unicode '5924216'
+'1429177':
+  catalogTitle: "\u66FC\u54C8\u987F\u5973\u4F63"
+  doubanTitle: !!python/unicode 'Maid in Manhattan'
+  doubanid: !!python/unicode '1305735'
 '1429190':
   catalogTitle: "\u521D\u604B\u8FD9\u4EF6\u5C0F\u4E8B"
   doubanTitle: "\u0E2A\u0E34\u0E48\u0E07\u0E40\u0E25\u0E47\u0E01\u0E40\u0E25\u0E47\
@@ -21729,6 +21275,10 @@
   catalogTitle: "\u5077\u5FC3\u5927\u5723PS\u7537\uFF083\uFF09"
   doubanTitle: "\u5077\u5FC3\u5927\u5723P.S.\u7537"
   doubanid: !!python/unicode '4236823'
+'1447662':
+  catalogTitle: "\u5077\u5FC3\u5927\u5723PS\u7537\uFF0812\uFF09"
+  doubanTitle: "\u5077\u5FC3\u5927\u5723P.S.\u7537"
+  doubanid: !!python/unicode '4236823'
 '1447721':
   catalogTitle: "\u5077\u5FC3\u5927\u5723PS\u7537\uFF082\uFF09"
   doubanTitle: "\u5077\u5FC3\u5927\u5723P.S.\u7537"
@@ -22005,6 +21555,11 @@
   catalogTitle: "\u68A6\u60F3\uFF081\uFF09"
   doubanTitle: "\"Yoshitsune\"Episode #1.7/ \u68A6\u60F3\u4E4B\u90FD"
   doubanid: !!python/unicode '3040723'
+'1457089':
+  catalogTitle: "\u68A6\u60F3\uFF0814\uFF09"
+  doubanTitle: "\"Berlin Alexanderplatz\" - Mein Traum vom Traum des Franz Biberkopf\
+    \ von Alfred D\xF6blin: Ein Epilog"
+  doubanid: !!python/unicode '3003908'
 '1457095':
   catalogTitle: "\u68A6\u60F3\uFF085\uFF09"
   doubanTitle: !!python/unicode 'Patti Smith: Dream of Life'
@@ -22301,6 +21856,18 @@
   catalogTitle: "\u96F6\u53F7\u56FD\u5883\u7EBF\uFF0822\uFF09"
   doubanTitle: "\u96F6\u53F7\u56FD\u5883\u7EBF"
   doubanid: !!python/unicode '5450872'
+'1458700':
+  catalogTitle: "\u96F6\u53F7\u56FD\u5883\u7EBF\uFF085\uFF09"
+  doubanTitle: "\u96F6\u53F7\u56FD\u5883\u7EBF"
+  doubanid: !!python/unicode '5450872'
+'1458702':
+  catalogTitle: "\u96F6\u53F7\u56FD\u5883\u7EBF\uFF088\uFF09"
+  doubanTitle: "\u96F6\u53F7\u56FD\u5883\u7EBF"
+  doubanid: !!python/unicode '5450872'
+'1458706':
+  catalogTitle: "\u96F6\u53F7\u56FD\u5883\u7EBF\uFF0820\uFF09"
+  doubanTitle: "\u96F6\u53F7\u56FD\u5883\u7EBF"
+  doubanid: !!python/unicode '5450872'
 '1458710':
   catalogTitle: "\u96F6\u53F7\u56FD\u5883\u7EBF\uFF0814\uFF09"
   doubanTitle: "\u96F6\u53F7\u56FD\u5883\u7EBF"
@@ -22543,6 +22110,22 @@
   catalogTitle: "\u8A93\u8A00"
   doubanTitle: !!python/unicode 'The Oath'
   doubanid: !!python/unicode '4312967'
+'1467403':
+  catalogTitle: "\u5343\u5C71\u66AE\u96EA\uFF0810\uFF09"
+  doubanTitle: "\u5343\u5C71\u66AE\u96EA2"
+  doubanid: !!python/unicode '10508912'
+'1467405':
+  catalogTitle: "\u5343\u5C71\u66AE\u96EA\uFF0824\uFF09"
+  doubanTitle: "\u5343\u5C71\u66AE\u96EA2"
+  doubanid: !!python/unicode '10508912'
+'1467406':
+  catalogTitle: "\u5343\u5C71\u66AE\u96EA\uFF0819\uFF09"
+  doubanTitle: "\u5343\u5C71\u66AE\u96EA2"
+  doubanid: !!python/unicode '10508912'
+'1467408':
+  catalogTitle: "\u5343\u5C71\u66AE\u96EA\uFF0815\uFF09"
+  doubanTitle: "\u5343\u5C71\u66AE\u96EA2"
+  doubanid: !!python/unicode '10508912'
 '1467412':
   catalogTitle: "\u5343\u5C71\u66AE\u96EA\uFF087\uFF09"
   doubanTitle: "\u5343\u5C71\u66AE\u96EA2"
@@ -23166,6 +22749,34 @@
   catalogTitle: "\u6211\u7684\u5A1C\u5854\u838E\uFF0827\uFF09"
   doubanTitle: "\u6211\u7684\u5A1C\u5854\u838E"
   doubanid: !!python/unicode '5351797'
+'1471441':
+  catalogTitle: "\u6211\u7684\u5A1C\u5854\u838E\uFF081\uFF09"
+  doubanTitle: "\u6211\u7684\u5A1C\u5854\u838E"
+  doubanid: !!python/unicode '5351797'
+'1471442':
+  catalogTitle: "\u6211\u7684\u5A1C\u5854\u838E\uFF0841\uFF09"
+  doubanTitle: "\u6211\u7684\u5A1C\u5854\u838E"
+  doubanid: !!python/unicode '5351797'
+'1471443':
+  catalogTitle: "\u6211\u7684\u5A1C\u5854\u838E\uFF0817\uFF09"
+  doubanTitle: "\u6211\u7684\u5A1C\u5854\u838E"
+  doubanid: !!python/unicode '5351797'
+'1471445':
+  catalogTitle: "\u6211\u7684\u5A1C\u5854\u838E\uFF0837\uFF09"
+  doubanTitle: "\u6211\u7684\u5A1C\u5854\u838E"
+  doubanid: !!python/unicode '5351797'
+'1471447':
+  catalogTitle: "\u6211\u7684\u5A1C\u5854\u838E\uFF0820\uFF09"
+  doubanTitle: "\u6211\u7684\u5A1C\u5854\u838E"
+  doubanid: !!python/unicode '5351797'
+'1471448':
+  catalogTitle: "\u6211\u7684\u5A1C\u5854\u838E\uFF0818\uFF09"
+  doubanTitle: "\u6211\u7684\u5A1C\u5854\u838E"
+  doubanid: !!python/unicode '5351797'
+'1471449':
+  catalogTitle: "\u6211\u7684\u5A1C\u5854\u838E\uFF0831\uFF09"
+  doubanTitle: "\u6211\u7684\u5A1C\u5854\u838E"
+  doubanid: !!python/unicode '5351797'
 '1471451':
   catalogTitle: "\u6211\u7684\u5A1C\u5854\u838E\uFF085\uFF09"
   doubanTitle: "\u6211\u7684\u5A1C\u5854\u838E"
@@ -23320,6 +22931,22 @@
   doubanid: !!python/unicode '5377114'
 '1473359':
   catalogTitle: "\u8BF7\u4F60\u539F\u8C05\u6211\uFF081\uFF09"
+  doubanTitle: "\u8BF7\u4F60\u539F\u8C05\u6211"
+  doubanid: !!python/unicode '5377114'
+'1473361':
+  catalogTitle: "\u8BF7\u4F60\u539F\u8C05\u6211\uFF0813\uFF09"
+  doubanTitle: "\u8BF7\u4F60\u539F\u8C05\u6211"
+  doubanid: !!python/unicode '5377114'
+'1473362':
+  catalogTitle: "\u8BF7\u4F60\u539F\u8C05\u6211\uFF0810\uFF09"
+  doubanTitle: "\u8BF7\u4F60\u539F\u8C05\u6211"
+  doubanid: !!python/unicode '5377114'
+'1473365':
+  catalogTitle: "\u8BF7\u4F60\u539F\u8C05\u6211\uFF082\uFF09"
+  doubanTitle: "\u8BF7\u4F60\u539F\u8C05\u6211"
+  doubanid: !!python/unicode '5377114'
+'1473369':
+  catalogTitle: "\u8BF7\u4F60\u539F\u8C05\u6211\uFF0825\uFF09"
   doubanTitle: "\u8BF7\u4F60\u539F\u8C05\u6211"
   doubanid: !!python/unicode '5377114'
 '1473370':
@@ -23524,6 +23151,10 @@
   doubanid: !!python/unicode '4922823'
 '1477307':
   catalogTitle: "\u5200\u5C16\u4E0A\u884C\u8D70\uFF0818\uFF09"
+  doubanTitle: "\u5200\u5C16\u4E0A\u884C\u8D70"
+  doubanid: !!python/unicode '4922823'
+'1477313':
+  catalogTitle: "\u5200\u5C16\u4E0A\u884C\u8D70\uFF081\uFF09"
   doubanTitle: "\u5200\u5C16\u4E0A\u884C\u8D70"
   doubanid: !!python/unicode '4922823'
 '1477321':
@@ -24102,6 +23733,14 @@
   catalogTitle: "HD_\u5510\u7405\u63A2\u6848\uFF0828\uFF09"
   doubanTitle: "\u5510\u7405\u63A2\u6848"
   doubanid: !!python/unicode '4300569'
+'1482943':
+  catalogTitle: "HD_\u5510\u7405\u63A2\u6848\uFF086\uFF09"
+  doubanTitle: "\u5510\u7405\u63A2\u6848"
+  doubanid: !!python/unicode '4300569'
+'1482946':
+  catalogTitle: "HD_\u5510\u7405\u63A2\u6848\uFF0825\uFF09"
+  doubanTitle: "\u5510\u7405\u63A2\u6848"
+  doubanid: !!python/unicode '4300569'
 '1482951':
   catalogTitle: "HD_\u5510\u7405\u63A2\u6848\uFF0815\uFF09"
   doubanTitle: "\u5510\u7405\u63A2\u6848"
@@ -24138,6 +23777,14 @@
   catalogTitle: "HD_\u5A5A\u59FB\u4FDD\u536B\u6218\uFF0828\uFF09"
   doubanTitle: "\u5A5A\u59FB\u4FDD\u536B\u6218"
   doubanid: !!python/unicode '4294119'
+'1483361':
+  catalogTitle: "HD_\u5A5A\u59FB\u4FDD\u536B\u6218\uFF0816\uFF09"
+  doubanTitle: "\u5A5A\u59FB\u4FDD\u536B\u6218"
+  doubanid: !!python/unicode '4294119'
+'1483363':
+  catalogTitle: "HD_\u5A5A\u59FB\u4FDD\u536B\u6218\uFF0823\uFF09"
+  doubanTitle: "\u5A5A\u59FB\u4FDD\u536B\u6218"
+  doubanid: !!python/unicode '4294119'
 '1483370':
   catalogTitle: "HD_\u5A5A\u59FB\u4FDD\u536B\u6218\uFF083\uFF09"
   doubanTitle: "\u5A5A\u59FB\u4FDD\u536B\u6218"
@@ -24164,6 +23811,14 @@
   doubanid: !!python/unicode '4294119'
 '1483397':
   catalogTitle: "HD_\u5A5A\u59FB\u4FDD\u536B\u6218\uFF0822\uFF09"
+  doubanTitle: "\u5A5A\u59FB\u4FDD\u536B\u6218"
+  doubanid: !!python/unicode '4294119'
+'1483401':
+  catalogTitle: "HD_\u5A5A\u59FB\u4FDD\u536B\u6218\uFF0833\uFF09"
+  doubanTitle: "\u5A5A\u59FB\u4FDD\u536B\u6218"
+  doubanid: !!python/unicode '4294119'
+'1483405':
+  catalogTitle: "HD_\u5A5A\u59FB\u4FDD\u536B\u6218\uFF081\uFF09"
   doubanTitle: "\u5A5A\u59FB\u4FDD\u536B\u6218"
   doubanid: !!python/unicode '4294119'
 '1483410':
@@ -25055,6 +24710,11 @@
     18\uFF09"
   doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
   doubanid: !!python/unicode '4935039'
+'1487655':
+  catalogTitle: "HD_\u8FD8\u73E0\u683C\u683C\u4E4B\u71D5\u513F\u7FE9\u7FE9\u98DE\uFF08\
+    8\uFF09"
+  doubanTitle: "\u65B0\u8FD8\u73E0\u683C\u683C"
+  doubanid: !!python/unicode '4935039'
 '1487656':
   catalogTitle: "HD_\u8FD8\u73E0\u683C\u683C\u4E4B\u71D5\u513F\u7FE9\u7FE9\u98DE\uFF08\
     14\uFF09"
@@ -25437,6 +25097,22 @@
   catalogTitle: "\u60AC\u5D16\uFF0828\uFF09"
   doubanTitle: "\u60AC\u5D16"
   doubanid: !!python/unicode '6965622'
+'1489131':
+  catalogTitle: "\u60AC\u5D16\uFF0810\uFF09"
+  doubanTitle: "\u60AC\u5D16"
+  doubanid: !!python/unicode '6965622'
+'1489133':
+  catalogTitle: "\u60AC\u5D16\uFF0815\uFF09"
+  doubanTitle: "\u60AC\u5D16"
+  doubanid: !!python/unicode '6965622'
+'1489136':
+  catalogTitle: "\u60AC\u5D16\uFF0824\uFF09"
+  doubanTitle: "\u60AC\u5D16"
+  doubanid: !!python/unicode '6965622'
+'1489137':
+  catalogTitle: "\u60AC\u5D16\uFF0830\uFF09"
+  doubanTitle: "\u60AC\u5D16"
+  doubanid: !!python/unicode '6965622'
 '1489140':
   catalogTitle: "\u60AC\u5D16\uFF0840\uFF09"
   doubanTitle: "\u60AC\u5D16"
@@ -25701,6 +25377,18 @@
   catalogTitle: "HD_\u5DDD\u519B\u56E2\u8840\u6218\u5230\u5E95\uFF0815\uFF09"
   doubanTitle: "\u5DDD\u519B\u56E2\u8840\u6218\u5230\u5E95"
   doubanid: !!python/unicode '6839157'
+'1490912':
+  catalogTitle: "HD_\u5DDD\u519B\u56E2\u8840\u6218\u5230\u5E95\uFF0827\uFF09"
+  doubanTitle: "\u5DDD\u519B\u56E2\u8840\u6218\u5230\u5E95"
+  doubanid: !!python/unicode '6839157'
+'1490916':
+  catalogTitle: "HD_\u5DDD\u519B\u56E2\u8840\u6218\u5230\u5E95\uFF086\uFF09"
+  doubanTitle: "\u5DDD\u519B\u56E2\u8840\u6218\u5230\u5E95"
+  doubanid: !!python/unicode '6839157'
+'1490919':
+  catalogTitle: "HD_\u5DDD\u519B\u56E2\u8840\u6218\u5230\u5E95\uFF0832\uFF09"
+  doubanTitle: "\u5DDD\u519B\u56E2\u8840\u6218\u5230\u5E95"
+  doubanid: !!python/unicode '6839157'
 '1490924':
   catalogTitle: "HD_\u5DDD\u519B\u56E2\u8840\u6218\u5230\u5E95\uFF0818\uFF09"
   doubanTitle: "\u5DDD\u519B\u56E2\u8840\u6218\u5230\u5E95"
@@ -25809,6 +25497,10 @@
   catalogTitle: "\u62A4\u56FD\u5927\u5C06\u519B\uFF086\uFF09"
   doubanTitle: "\u62A4\u56FD\u5927\u5C06\u519B"
   doubanid: !!python/unicode '5384563'
+'1492230':
+  catalogTitle: "\u62A4\u56FD\u5927\u5C06\u519B\uFF088\uFF09"
+  doubanTitle: "\u62A4\u56FD\u5927\u5C06\u519B"
+  doubanid: !!python/unicode '5384563'
 '1492304':
   catalogTitle: "\u62A4\u56FD\u5927\u5C06\u519B\uFF0818\uFF09"
   doubanTitle: "\u62A4\u56FD\u5927\u5C06\u519B"
@@ -25889,6 +25581,14 @@
   catalogTitle: "\u62A4\u56FD\u5927\u5C06\u519B\uFF0821\uFF09"
   doubanTitle: "\u62A4\u56FD\u5927\u5C06\u519B"
   doubanid: !!python/unicode '5384563'
+'1493794':
+  catalogTitle: "\u6307\u73AF\u738B2\uFF1A\u53CC\u5854\u5947\u5175"
+  doubanTitle: !!python/unicode 'The Lord of the Rings: The Two Towers'
+  doubanid: !!python/unicode '1291572'
+'1493799':
+  catalogTitle: "\u68A6\u6E38"
+  doubanTitle: "\u5922\u904A\u590F\u5A01\u5937"
+  doubanid: !!python/unicode '1877016'
 '1493824':
   catalogTitle: "\u6307\u73AF\u738B3\uFF1A\u738B\u8005\u5F52\u6765"
   doubanTitle: !!python/unicode 'The Lord of the Rings: The Return of the King'
@@ -25983,6 +25683,18 @@
   doubanid: !!python/unicode '1303376'
 '1494362':
   catalogTitle: "\u91D1\u679D\u7389\u53F6\uFF084\uFF09"
+  doubanTitle: "\u91D1\u679D\u7389\u53F6"
+  doubanid: !!python/unicode '1303376'
+'1494372':
+  catalogTitle: "\u91D1\u679D\u7389\u53F6\uFF089\uFF09"
+  doubanTitle: "\u91D1\u679D\u7389\u53F6"
+  doubanid: !!python/unicode '1303376'
+'1494378':
+  catalogTitle: "\u91D1\u679D\u7389\u53F6\uFF0827\uFF09"
+  doubanTitle: "\u91D1\u679D\u7389\u53F6"
+  doubanid: !!python/unicode '1303376'
+'1494379':
+  catalogTitle: "\u91D1\u679D\u7389\u53F6\uFF0819\uFF09"
   doubanTitle: "\u91D1\u679D\u7389\u53F6"
   doubanid: !!python/unicode '1303376'
 '1494381':
@@ -26305,6 +26017,14 @@
   catalogTitle: "\u5355\u8EAB\u5973\u738B\uFF081\uFF09"
   doubanTitle: "\u5355\u8EAB\u5973\u738B"
   doubanid: !!python/unicode '5244064'
+'1497558':
+  catalogTitle: "\u5355\u8EAB\u5973\u738B\uFF0822\uFF09"
+  doubanTitle: "\u5355\u8EAB\u5973\u738B"
+  doubanid: !!python/unicode '5244064'
+'1497559':
+  catalogTitle: "\u5355\u8EAB\u5973\u738B\uFF0810\uFF09"
+  doubanTitle: "\u5355\u8EAB\u5973\u738B"
+  doubanid: !!python/unicode '5244064'
 '1497560':
   catalogTitle: "\u5355\u8EAB\u5973\u738B\uFF084\uFF09"
   doubanTitle: "\u5355\u8EAB\u5973\u738B"
@@ -26411,6 +26131,18 @@
   doubanid: !!python/unicode '3147522'
 '1497915':
   catalogTitle: "\u5BCC\u8D35\u5728\u5929\uFF0824\uFF092012"
+  doubanTitle: "\u5BCC\u8D35\u5728\u5929"
+  doubanid: !!python/unicode '3147522'
+'1497920':
+  catalogTitle: "\u5BCC\u8D35\u5728\u5929\uFF086\uFF092012"
+  doubanTitle: "\u5BCC\u8D35\u5728\u5929"
+  doubanid: !!python/unicode '3147522'
+'1497925':
+  catalogTitle: "\u5BCC\u8D35\u5728\u5929\uFF0834\uFF092012"
+  doubanTitle: "\u5BCC\u8D35\u5728\u5929"
+  doubanid: !!python/unicode '3147522'
+'1497927':
+  catalogTitle: "\u5BCC\u8D35\u5728\u5929\uFF089\uFF092012"
   doubanTitle: "\u5BCC\u8D35\u5728\u5929"
   doubanid: !!python/unicode '3147522'
 '1497932':
@@ -26981,6 +26713,10 @@
   doubanid: !!python/unicode '4262234'
 '1509385':
   catalogTitle: "HD_\u4E0B\u5357\u6D0B\uFF0814\uFF09"
+  doubanTitle: "\u4E0B\u5357\u6D0B"
+  doubanid: !!python/unicode '4262234'
+'1509393':
+  catalogTitle: "HD_\u4E0B\u5357\u6D0B\uFF0813\uFF09"
   doubanTitle: "\u4E0B\u5357\u6D0B"
   doubanid: !!python/unicode '4262234'
 '1509689':
@@ -27569,6 +27305,10 @@
   catalogTitle: "\u767D\u8272\u5DE8\u5854\uFF0822\uFF09"
   doubanTitle: "\u767D\u3044\u5DE8\u5854"
   doubanid: !!python/unicode '2150220'
+'2680':
+  catalogTitle: "\u5931\u8E2A\u5973\u4EBA-15"
+  doubanTitle: "\u5931\u8E2A\u5973\u4EBA"
+  doubanid: !!python/unicode '2990239'
 '2702':
   catalogTitle: "\u5C3C\u7F57\u6CB3\u4F73\u4E3D"
   doubanTitle: !!python/unicode 'Bethune sur Nil'
@@ -27737,6 +27477,10 @@
   catalogTitle: "\u4E07\u5377\u697C(13)"
   doubanTitle: "\u4E07\u5377\u697C"
   doubanid: !!python/unicode '3587011'
+'303682':
+  catalogTitle: "\u4E07\u5377\u697C(14)"
+  doubanTitle: "\u4E07\u5377\u697C"
+  doubanid: !!python/unicode '3587011'
 '303714':
   catalogTitle: "\u4E07\u5377\u697C(17)"
   doubanTitle: "\u4E07\u5377\u697C"
@@ -27785,12 +27529,20 @@
   catalogTitle: "\u4E07\u5377\u697C(46)"
   doubanTitle: "\u4E07\u5377\u697C"
   doubanid: !!python/unicode '3587011'
+'303914':
+  catalogTitle: "\u4E07\u5377\u697C(48)"
+  doubanTitle: "\u4E07\u5377\u697C"
+  doubanid: !!python/unicode '3587011'
 '303921':
   catalogTitle: "\u79E6\u65F6\u660E\u6708\u4E4B\u591C\u5C3D\u5929\u660E(14)"
   doubanTitle: "\u79E6\u65F6\u660E\u6708\u4E4B\u591C\u5C3D\u5929\u660E"
   doubanid: !!python/unicode '3151809'
 '304008':
   catalogTitle: "\u4E07\u5377\u697C(58)"
+  doubanTitle: "\u4E07\u5377\u697C"
+  doubanid: !!python/unicode '3587011'
+'304016':
+  catalogTitle: "\u4E07\u5377\u697C(61)"
   doubanTitle: "\u4E07\u5377\u697C"
   doubanid: !!python/unicode '3587011'
 '304020':
@@ -27945,6 +27697,14 @@
   catalogTitle: "\u68D2\u5B50\u8001\u864E\u9E21"
   doubanTitle: "\u68D2\u5B50\u8001\u864E\u9E21"
   doubanid: !!python/unicode '2279587'
+'3517':
+  catalogTitle: "\u72FC\u6BD2\u82B1\uFF0832\uFF09"
+  doubanTitle: "\u72FC\u6BD2\u82B1"
+  doubanid: !!python/unicode '2237993'
+'3518':
+  catalogTitle: "\u9B54\u738B-18"
+  doubanTitle: "\u9B54\u738B"
+  doubanid: !!python/unicode '3196686'
 '3543':
   catalogTitle: "\u82B8\u5A18\uFF0820\uFF09"
   doubanTitle: "\u82B8\u5A18"
@@ -28169,6 +27929,10 @@
   catalogTitle: "\u767D\u8272\u5DE8\u5854\uFF089\uFF09"
   doubanTitle: "\u767D\u3044\u5DE8\u5854"
   doubanid: !!python/unicode '2150220'
+'390':
+  catalogTitle: "\u767D\u8272\u5DE8\u5854\uFF0837\uFF09"
+  doubanTitle: "\u767D\u3044\u5DE8\u5854"
+  doubanid: !!python/unicode '2150220'
 '390349':
   catalogTitle: "\u547D\u4E2D\u6CE8\u5B9A\u6211\u7231\u4F60\uFF0830\uFF09"
   doubanTitle: "\u547D\u4E2D\u6CE8\u5B9A\u6211\u611B\u4F60"
@@ -28197,6 +27961,10 @@
   catalogTitle: "\u529F\u52CB-17"
   doubanTitle: "\u529F\u52CB"
   doubanid: !!python/unicode '2299462'
+'391':
+  catalogTitle: "7\u53F7\u5DEE\u9986"
+  doubanTitle: "7\u865F\u5DEE\u9928"
+  doubanid: !!python/unicode '1480007'
 '393608':
   catalogTitle: "\u547D\u4E2D\u6CE8\u5B9A\u6211\u7231\u4F60\uFF0834\uFF09"
   doubanTitle: "\u547D\u4E2D\u6CE8\u5B9A\u6211\u611B\u4F60"
@@ -28362,6 +28130,10 @@
   doubanTitle: "\u5C0F\u5175\u5F20\u560E"
   doubanid: !!python/unicode '3042355'
 '396264':
+  catalogTitle: "\u5C0F\u5175\u5F20\u560E"
+  doubanTitle: "\u5C0F\u5175\u5F20\u560E"
+  doubanid: !!python/unicode '3042355'
+'396271':
   catalogTitle: "\u5C0F\u5175\u5F20\u560E"
   doubanTitle: "\u5C0F\u5175\u5F20\u560E"
   doubanid: !!python/unicode '3042355'
@@ -28565,6 +28337,14 @@
   catalogTitle: "\u8D25\u72AC\u5973\u738B\uFF0851\uFF09"
   doubanTitle: "\u6557\u72AC\u5973\u738B"
   doubanid: !!python/unicode '3402975'
+'402602':
+  catalogTitle: "\u8D25\u72AC\u5973\u738B\uFF0852\uFF09"
+  doubanTitle: "\u6557\u72AC\u5973\u738B"
+  doubanid: !!python/unicode '3402975'
+'402606':
+  catalogTitle: "\u8D25\u72AC\u5973\u738B\uFF0854\uFF09"
+  doubanTitle: "\u6557\u72AC\u5973\u738B"
+  doubanid: !!python/unicode '3402975'
 '402608':
   catalogTitle: "\u8D25\u72AC\u5973\u738B\uFF0853\uFF09"
   doubanTitle: "\u6557\u72AC\u5973\u738B"
@@ -28622,6 +28402,10 @@
   doubanTitle: "\u96F7\u901F\u767B\u95EA\u7535\u51B2\u7EBF"
   doubanid: !!python/unicode '4824963'
 '420453':
+  catalogTitle: "\u96F7\u901F\u767B\u95EA\u7535\u51B2\u7EBF"
+  doubanTitle: "\u96F7\u901F\u767B\u95EA\u7535\u51B2\u7EBF"
+  doubanid: !!python/unicode '4824963'
+'420621':
   catalogTitle: "\u96F7\u901F\u767B\u95EA\u7535\u51B2\u7EBF"
   doubanTitle: "\u96F7\u901F\u767B\u95EA\u7535\u51B2\u7EBF"
   doubanid: !!python/unicode '4824963'
@@ -28809,8 +28593,20 @@
   catalogTitle: "\u5FC3\u661F\u7684\u6CEA\u5149\uFF086\uFF09"
   doubanTitle: "\u5FC3\u661F\u7684\u6CEA\u5149"
   doubanid: !!python/unicode '3126974'
+'443630':
+  catalogTitle: "\u5FC3\u661F\u7684\u6CEA\u5149\uFF085\uFF09"
+  doubanTitle: "\u5FC3\u661F\u7684\u6CEA\u5149"
+  doubanid: !!python/unicode '3126974'
 '443633':
   catalogTitle: "\u5FC3\u661F\u7684\u6CEA\u5149\uFF087\uFF09"
+  doubanTitle: "\u5FC3\u661F\u7684\u6CEA\u5149"
+  doubanid: !!python/unicode '3126974'
+'443637':
+  catalogTitle: "\u5FC3\u661F\u7684\u6CEA\u5149\uFF089\uFF09"
+  doubanTitle: "\u5FC3\u661F\u7684\u6CEA\u5149"
+  doubanid: !!python/unicode '3126974'
+'443639':
+  catalogTitle: "\u5FC3\u661F\u7684\u6CEA\u5149\uFF0810\uFF09"
   doubanTitle: "\u5FC3\u661F\u7684\u6CEA\u5149"
   doubanid: !!python/unicode '3126974'
 '443640':
@@ -28911,6 +28707,18 @@
   doubanid: !!python/unicode '4009339'
 '444808':
   catalogTitle: "\u6C5F\u57CE\u4EE4\uFF0826\uFF09"
+  doubanTitle: "\u6C5F\u57CE\u4EE4"
+  doubanid: !!python/unicode '4009339'
+'444814':
+  catalogTitle: "\u6C5F\u57CE\u4EE4\uFF0829\uFF09"
+  doubanTitle: "\u6C5F\u57CE\u4EE4"
+  doubanid: !!python/unicode '4009339'
+'444817':
+  catalogTitle: "\u6C5F\u57CE\u4EE4\uFF0830\uFF09"
+  doubanTitle: "\u6C5F\u57CE\u4EE4"
+  doubanid: !!python/unicode '4009339'
+'444819':
+  catalogTitle: "\u6C5F\u57CE\u4EE4\uFF0831\uFF09"
   doubanTitle: "\u6C5F\u57CE\u4EE4"
   doubanid: !!python/unicode '4009339'
 '44482':
@@ -29129,6 +28937,14 @@
   catalogTitle: "\u7B11\u7740\u6D3B\u4E0B\u53BB\uFF0816\uFF09"
   doubanTitle: "\u7B11\u7740\u6D3B\u4E0B\u53BB"
   doubanid: !!python/unicode '2363972'
+'4625':
+  catalogTitle: "\u5927\u6848\u7EC4\uFF086\uFF09"
+  doubanTitle: "\u5927\u6848\u7EC4"
+  doubanid: !!python/unicode '3147523'
+'4626':
+  catalogTitle: "\u51E4\u51F0\u56DB\u91CD\u594F\uFF085\uFF09"
+  doubanTitle: "\u9CF3\u51F0\u56DB\u91CD\u594F"
+  doubanid: !!python/unicode '2253756'
 '463977':
   catalogTitle: "\u4EBA\u751F\u767E\u4E8B"
   doubanTitle: "\u4EBA\u751F\u767E\u4E8B"
@@ -29190,6 +29006,14 @@
   doubanTitle: "A\u8BA1\u5212"
   doubanid: !!python/unicode '2969550'
 '469855':
+  catalogTitle: "A\u8BA1\u5212"
+  doubanTitle: "A\u8BA1\u5212"
+  doubanid: !!python/unicode '2969550'
+'469873':
+  catalogTitle: "A\u8BA1\u5212"
+  doubanTitle: "A\u8BA1\u5212"
+  doubanid: !!python/unicode '2969550'
+'469875':
   catalogTitle: "A\u8BA1\u5212"
   doubanTitle: "A\u8BA1\u5212"
   doubanid: !!python/unicode '2969550'
@@ -29731,6 +29555,26 @@
   doubanid: !!python/unicode '2249496'
 '519509':
   catalogTitle: "\u516C\u4E3B\u5C0F\u59B9\uFF0831\uFF09"
+  doubanTitle: "\u516C\u4E3B\u5C0F\u59B9"
+  doubanid: !!python/unicode '2249496'
+'519511':
+  catalogTitle: "\u516C\u4E3B\u5C0F\u59B9\uFF0826\uFF09"
+  doubanTitle: "\u516C\u4E3B\u5C0F\u59B9"
+  doubanid: !!python/unicode '2249496'
+'519512':
+  catalogTitle: "\u516C\u4E3B\u5C0F\u59B9\uFF0823\uFF09"
+  doubanTitle: "\u516C\u4E3B\u5C0F\u59B9"
+  doubanid: !!python/unicode '2249496'
+'519514':
+  catalogTitle: "\u516C\u4E3B\u5C0F\u59B9\uFF0829\uFF09"
+  doubanTitle: "\u516C\u4E3B\u5C0F\u59B9"
+  doubanid: !!python/unicode '2249496'
+'519515':
+  catalogTitle: "\u516C\u4E3B\u5C0F\u59B9\uFF0834\uFF09"
+  doubanTitle: "\u516C\u4E3B\u5C0F\u59B9"
+  doubanid: !!python/unicode '2249496'
+'519517':
+  catalogTitle: "\u516C\u4E3B\u5C0F\u59B9\uFF0835\uFF09"
   doubanTitle: "\u516C\u4E3B\u5C0F\u59B9"
   doubanid: !!python/unicode '2249496'
 '519520':
@@ -30633,6 +30477,10 @@
   catalogTitle: "\u6211\u7237\u7237\u6211\u7238\u7238\uFF081\uFF09"
   doubanTitle: "\u864E\u8E1E\u9F99\u76D8"
   doubanid: !!python/unicode '3008283'
+'5983':
+  catalogTitle: "\u51E4\u51F0\u56DB\u91CD\u594F\uFF0814\uFF09"
+  doubanTitle: "\u9CF3\u51F0\u56DB\u91CD\u594F"
+  doubanid: !!python/unicode '2253756'
 '5992':
   catalogTitle: "\u529F\u52CB-28"
   doubanTitle: "\u529F\u52CB"
@@ -30899,6 +30747,10 @@
   doubanid: !!python/unicode '2363972'
 '652986':
   catalogTitle: "\u72FC\u70DF\uFF0828\uFF09"
+  doubanTitle: "\u72FC\u70DF"
+  doubanid: !!python/unicode '3532431'
+'653009':
+  catalogTitle: "\u72FC\u70DF\uFF082\uFF09"
   doubanTitle: "\u72FC\u70DF"
   doubanid: !!python/unicode '3532431'
 '653022':
@@ -31186,6 +31038,10 @@
   catalogTitle: "\u53F6\u95EE2"
   doubanTitle: "\u53F6\u95EE2\uFF1A\u5B97\u5E08\u4F20\u5947"
   doubanid: !!python/unicode '3578981'
+'690500':
+  catalogTitle: "\u4E2D\u56FD\u5BB6\u5EAD\u4E4B\u6BCD\u7231\uFF0822\uFF09"
+  doubanTitle: "\u4E2D\u56FD\u5BB6\u5EAD\u4E4B\u65B0\u6E34\u671B"
+  doubanid: !!python/unicode '3783839'
 '690708':
   catalogTitle: "\u4E71\u4E16\u65B0\u5A18\uFF0820\uFF09"
   doubanTitle: "\u4E71\u4E16\u65B0\u5A18"
@@ -31256,6 +31112,18 @@
   doubanid: !!python/unicode '3637739'
 '694771':
   catalogTitle: "\u6843\u82B1\u5C0F\u59B9\uFF0814\uFF09"
+  doubanTitle: "\u6843\u82B1\u5C0F\u59B9"
+  doubanid: !!python/unicode '3637739'
+'694883':
+  catalogTitle: "\u6843\u82B1\u5C0F\u59B9\uFF0820\uFF09"
+  doubanTitle: "\u6843\u82B1\u5C0F\u59B9"
+  doubanid: !!python/unicode '3637739'
+'694886':
+  catalogTitle: "\u6843\u82B1\u5C0F\u59B9\uFF0811\uFF09"
+  doubanTitle: "\u6843\u82B1\u5C0F\u59B9"
+  doubanid: !!python/unicode '3637739'
+'694888':
+  catalogTitle: "\u6843\u82B1\u5C0F\u59B9\uFF0816\uFF09"
   doubanTitle: "\u6843\u82B1\u5C0F\u59B9"
   doubanid: !!python/unicode '3637739'
 '694890':
@@ -31416,6 +31284,14 @@
   doubanid: !!python/unicode '2983434'
 '711217':
   catalogTitle: "\u6211\u548C\u6625\u5929\u6709\u4E2A\u7EA6\u4F1A\uFF0831\uFF09"
+  doubanTitle: "\u6211\u548C\u6625\u5929\u6709\u500B\u7D04\u6703"
+  doubanid: !!python/unicode '2983434'
+'711220':
+  catalogTitle: "\u6211\u548C\u6625\u5929\u6709\u4E2A\u7EA6\u4F1A\uFF0826\uFF09"
+  doubanTitle: "\u6211\u548C\u6625\u5929\u6709\u500B\u7D04\u6703"
+  doubanid: !!python/unicode '2983434'
+'711224':
+  catalogTitle: "\u6211\u548C\u6625\u5929\u6709\u4E2A\u7EA6\u4F1A\uFF0834\uFF09"
   doubanTitle: "\u6211\u548C\u6625\u5929\u6709\u500B\u7D04\u6703"
   doubanid: !!python/unicode '2983434'
 '711235':
@@ -31582,6 +31458,14 @@
   catalogTitle: "\u5929\u5927\u5730\u5927-21"
   doubanTitle: "\u5929\u5927\u5730\u5927"
   doubanid: !!python/unicode '3095372'
+'7181':
+  catalogTitle: "\u7B11\u7740\u6D3B\u4E0B\u53BB\uFF0815\uFF09"
+  doubanTitle: "\u7B11\u7740\u6D3B\u4E0B\u53BB"
+  doubanid: !!python/unicode '2363972'
+'7184':
+  catalogTitle: "\u98DF\u4EBA\u9C7C\u4E8B\u4EF6"
+  doubanTitle: "\u98DF\u4EBA\u9C7C\u4E8B\u4EF6"
+  doubanid: !!python/unicode '3035344'
 '719068':
   catalogTitle: "\u4EBA\u5728\u7A98\u9014"
   doubanTitle: !!python/unicode 'Is Anybody There?'
@@ -32180,6 +32064,14 @@
   catalogTitle: "\u8DDF\u7EA2\u9876\u767D\u5927\u4E09\u5143\uFF0836\uFF09"
   doubanTitle: "\u8DDF\u7EA2\u9876\u767D\u5927\u4E09\u5143"
   doubanid: !!python/unicode '3814092'
+'790296':
+  catalogTitle: "\u8DDF\u7EA2\u9876\u767D\u5927\u4E09\u5143\uFF0823\uFF09"
+  doubanTitle: "\u8DDF\u7EA2\u9876\u767D\u5927\u4E09\u5143"
+  doubanid: !!python/unicode '3814092'
+'790297':
+  catalogTitle: "\u8DDF\u7EA2\u9876\u767D\u5927\u4E09\u5143\uFF084\uFF09"
+  doubanTitle: "\u8DDF\u7EA2\u9876\u767D\u5927\u4E09\u5143"
+  doubanid: !!python/unicode '3814092'
 '790298':
   catalogTitle: "\u8DDF\u7EA2\u9876\u767D\u5927\u4E09\u5143\uFF0816\uFF09"
   doubanTitle: "\u8DDF\u7EA2\u9876\u767D\u5927\u4E09\u5143"
@@ -32288,6 +32180,10 @@
   catalogTitle: "\u5B54\u5B50"
   doubanTitle: "\u5B54\u5B50"
   doubanid: !!python/unicode '3606975'
+'813038':
+  catalogTitle: "\u9ECE\u660E\u4E4B\u524D\uFF0823\uFF09"
+  doubanTitle: "\u9ECE\u660E\u4E4B\u524D"
+  doubanid: !!python/unicode '4894070'
 '8131':
   catalogTitle: "\u8D35\u65CF\u8C1C\u60C5"
   doubanTitle: !!python/unicode 'Wicker Park'
@@ -32572,6 +32468,10 @@
   catalogTitle: "\u751F\u5316\u5371\u673A4\uFF1A\u6765\u751F"
   doubanTitle: !!python/unicode 'Resident Evil: Afterlife'
   doubanid: !!python/unicode '3041294'
+'8540':
+  catalogTitle: "OH\uFF01\u5FC5\u80DC\u5949\u987A\u82F1-23"
+  doubanTitle: "\uC624!\uD544\uC2B9 \uBD09\uC21C\uC601"
+  doubanid: !!python/unicode '2365103'
 '854245':
   catalogTitle: "\u6458\u661F\u4E4B\u65C5\uFF0824\uFF09"
   doubanTitle: "\u6458\u661F\u4E4B\u65C5"
@@ -32770,6 +32670,18 @@
   catalogTitle: "\u5929\u56FD\u7684\u9636\u68AF\uFF088\uFF09"
   doubanTitle: "\uCC9C\uAD6D\uC758 \uACC4\uB2E8"
   doubanid: !!python/unicode '1786753'
+'865090':
+  catalogTitle: "\u5929\u56FD\u7684\u9636\u68AF\uFF085\uFF09"
+  doubanTitle: "\uCC9C\uAD6D\uC758 \uACC4\uB2E8"
+  doubanid: !!python/unicode '1786753'
+'865094':
+  catalogTitle: "\u5929\u56FD\u7684\u9636\u68AF\uFF0820\uFF09"
+  doubanTitle: "\uCC9C\uAD6D\uC758 \uACC4\uB2E8"
+  doubanid: !!python/unicode '1786753'
+'865097':
+  catalogTitle: "\u5929\u56FD\u7684\u9636\u68AF\uFF0818\uFF09"
+  doubanTitle: "\uCC9C\uAD6D\uC758 \uACC4\uB2E8"
+  doubanid: !!python/unicode '1786753'
 '8651':
   catalogTitle: "\u767D\u8272\u5DE8\u5854\uFF0825\uFF09"
   doubanTitle: "\u767D\u3044\u5DE8\u5854"
@@ -32870,6 +32782,10 @@
   catalogTitle: "\u661F\u843D\u51E1\u5C18"
   doubanTitle: !!python/unicode 'The Stars Fell on Henrietta'
   doubanid: !!python/unicode '1423008'
+'870326':
+  catalogTitle: "\u5544\u6728\u9E1F\u4E4B\u8C1C"
+  doubanTitle: "\u5544\u6728\u9E1F\u4E4B\u8C1C"
+  doubanid: !!python/unicode '5989828'
 '871307':
   catalogTitle: "\u5927\u73A9\u5BB6"
   doubanTitle: "\u5927\u73A9\u5BB6"
@@ -33498,6 +33414,26 @@
   catalogTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9\uFF086\uFF09"
   doubanTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9"
   doubanid: !!python/unicode '2190918'
+'902750':
+  catalogTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9\uFF0814\uFF09"
+  doubanTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9"
+  doubanid: !!python/unicode '2190918'
+'902751':
+  catalogTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9\uFF082\uFF09"
+  doubanTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9"
+  doubanid: !!python/unicode '2190918'
+'902754':
+  catalogTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9\uFF081\uFF09"
+  doubanTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9"
+  doubanid: !!python/unicode '2190918'
+'902756':
+  catalogTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9\uFF089\uFF09"
+  doubanTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9"
+  doubanid: !!python/unicode '2190918'
+'902758':
+  catalogTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9\uFF088\uFF09"
+  doubanTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9"
+  doubanid: !!python/unicode '2190918'
 '902761':
   catalogTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9\uFF0813\uFF09"
   doubanTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6885\u82B1\u70D9"
@@ -33560,6 +33496,10 @@
   doubanid: !!python/unicode '5285671'
 '903457':
   catalogTitle: "\u8FFD\u6355\uFF0827\uFF09"
+  doubanTitle: "\u8FFD\u6355"
+  doubanid: !!python/unicode '5285671'
+'903464':
+  catalogTitle: "\u8FFD\u6355\uFF081\uFF09"
   doubanTitle: "\u8FFD\u6355"
   doubanid: !!python/unicode '5285671'
 '903473':
@@ -33744,6 +33684,18 @@
   doubanid: !!python/unicode '2190921'
 '904198':
   catalogTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6C34\u4E91\u95F4\uFF088\uFF09"
+  doubanTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6C34\u4E91\u95F4"
+  doubanid: !!python/unicode '2190921'
+'904201':
+  catalogTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6C34\u4E91\u95F4\uFF0810\uFF09"
+  doubanTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6C34\u4E91\u95F4"
+  doubanid: !!python/unicode '2190921'
+'904202':
+  catalogTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6C34\u4E91\u95F4\uFF083\uFF09"
+  doubanTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6C34\u4E91\u95F4"
+  doubanid: !!python/unicode '2190921'
+'904203':
+  catalogTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6C34\u4E91\u95F4\uFF0813\uFF09"
   doubanTitle: "\u6885\u82B1\u4E09\u5F04\u4E4B\u6C34\u4E91\u95F4"
   doubanid: !!python/unicode '2190921'
 '906167':
@@ -33952,6 +33904,26 @@
   doubanid: !!python/unicode '3284271'
 '914837':
   catalogTitle: "\u59BB\u5B50\u7684\u8BF1\u60D1II\uFF0872\uFF09"
+  doubanTitle: "\uC544\uB0B4\uC758 \uC720\uD639"
+  doubanid: !!python/unicode '3284271'
+'914840':
+  catalogTitle: "\u59BB\u5B50\u7684\u8BF1\u60D1II\uFF0849\uFF09"
+  doubanTitle: "\uC544\uB0B4\uC758 \uC720\uD639"
+  doubanid: !!python/unicode '3284271'
+'914843':
+  catalogTitle: "\u59BB\u5B50\u7684\u8BF1\u60D1II\uFF0890\uFF09"
+  doubanTitle: "\uC544\uB0B4\uC758 \uC720\uD639"
+  doubanid: !!python/unicode '3284271'
+'914846':
+  catalogTitle: "\u59BB\u5B50\u7684\u8BF1\u60D1II\uFF0848\uFF09"
+  doubanTitle: "\uC544\uB0B4\uC758 \uC720\uD639"
+  doubanid: !!python/unicode '3284271'
+'914847':
+  catalogTitle: "\u59BB\u5B50\u7684\u8BF1\u60D1II\uFF0858\uFF09"
+  doubanTitle: "\uC544\uB0B4\uC758 \uC720\uD639"
+  doubanid: !!python/unicode '3284271'
+'914848':
+  catalogTitle: "\u59BB\u5B50\u7684\u8BF1\u60D1II\uFF0852\uFF09"
   doubanTitle: "\uC544\uB0B4\uC758 \uC720\uD639"
   doubanid: !!python/unicode '3284271'
 '914852':
@@ -35206,6 +35178,10 @@
   catalogTitle: "\u975E\u8BDA\u52FF\u62702"
   doubanTitle: "\u975E\u8BDA\u52FF\u62702"
   doubanid: !!python/unicode '4271894'
+'94':
+  catalogTitle: "\u5929\u5927\u5730\u5927-11"
+  doubanTitle: "\u5929\u5927\u5730\u5927"
+  doubanid: !!python/unicode '3095372'
 '9407':
   catalogTitle: "OH\uFF01\u5FC5\u80DC\u5949\u987A\u82F1-19"
   doubanTitle: "\uC624!\uD544\uC2B9 \uBD09\uC21C\uC601"
@@ -35666,6 +35642,18 @@
   doubanid: !!python/unicode '3273704'
 '973115':
   catalogTitle: "\u7761\u9F99\u795E\u63A2\u4E4B\u60C5\u7231\u4FDD\u9669\uFF0820\uFF09"
+  doubanTitle: "\u7761\u9F99\u795E\u63A2\u4E4B\u60C5\u7231\u4FDD\u9669"
+  doubanid: !!python/unicode '3273704'
+'973120':
+  catalogTitle: "\u7761\u9F99\u795E\u63A2\u4E4B\u60C5\u7231\u4FDD\u9669\uFF0818\uFF09"
+  doubanTitle: "\u7761\u9F99\u795E\u63A2\u4E4B\u60C5\u7231\u4FDD\u9669"
+  doubanid: !!python/unicode '3273704'
+'973122':
+  catalogTitle: "\u7761\u9F99\u795E\u63A2\u4E4B\u60C5\u7231\u4FDD\u9669\uFF0814\uFF09"
+  doubanTitle: "\u7761\u9F99\u795E\u63A2\u4E4B\u60C5\u7231\u4FDD\u9669"
+  doubanid: !!python/unicode '3273704'
+'973128':
+  catalogTitle: "\u7761\u9F99\u795E\u63A2\u4E4B\u60C5\u7231\u4FDD\u9669\uFF0817\uFF09"
   doubanTitle: "\u7761\u9F99\u795E\u63A2\u4E4B\u60C5\u7231\u4FDD\u9669"
   doubanid: !!python/unicode '3273704'
 '973133':
@@ -36437,6 +36425,14 @@
   catalogTitle: "\u4E94\u661F\u7EA2\u65D7\u8FCE\u98CE\u98D8\u626C\uFF0823\uFF09"
   doubanTitle: "\u4E94\u661F\u7EA2\u65D7\u8FCE\u98CE\u98D8\u626C"
   doubanid: !!python/unicode '5951861'
+'999755':
+  catalogTitle: "\u4E94\u661F\u7EA2\u65D7\u8FCE\u98CE\u98D8\u626C\uFF084\uFF09"
+  doubanTitle: "\u4E94\u661F\u7EA2\u65D7\u8FCE\u98CE\u98D8\u626C"
+  doubanid: !!python/unicode '5951861'
+'999758':
+  catalogTitle: "\u4E94\u661F\u7EA2\u65D7\u8FCE\u98CE\u98D8\u626C\uFF0812\uFF09"
+  doubanTitle: "\u4E94\u661F\u7EA2\u65D7\u8FCE\u98CE\u98D8\u626C"
+  doubanid: !!python/unicode '5951861'
 '999762':
   catalogTitle: "\u4E94\u661F\u7EA2\u65D7\u8FCE\u98CE\u98D8\u626C\uFF0838\uFF09"
   doubanTitle: "\u4E94\u661F\u7EA2\u65D7\u8FCE\u98CE\u98D8\u626C"
@@ -36613,3 +36609,7 @@
   catalogTitle: "\u4FA6\u63A2\u5C0F\u8BF4\uFF0816\uFF09"
   doubanTitle: "\u4FA6\u63A2\u5C0F\u8BF4"
   doubanid: !!python/unicode '4920526'
+'1392116':
+  catalogTitle: "\u5929\u9645\u6D69\u52AB"
+  doubanTitle: !!python/unicode 'Skyline'
+  doubanid: !!python/unicode '4919019'
