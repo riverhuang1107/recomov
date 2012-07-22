@@ -5,16 +5,19 @@
 """
 
 from recsys.algorithm.factorize import SVD
+from recsys import algorithm
 
-def loadSVD():
+algorithm.VERBOSE = True
+
+def loadSVD():        
     
-    filename = 'doubanRate.dat'
+    filename = 'attrRate.dat'
     svd = SVD()
-    svd.load_data(filename=filename, sep='::', format={'col':0, 'row':1, 'value':2, 'ids': int})
+    svd.load_data(filename=filename, sep='::', format={'col':0, 'row':1, 'value':2})
     
     svd.save_data("svd.dat", False)
     
-    K=20
+    K=5
     svd.compute(k=K, min_values=1, pre_normalize="rows", mean_center=False, post_normalize=True, savefile='.')
     
     
@@ -32,9 +35,9 @@ def loadSVD():
     
     #1173893,1396943
     sim = svd.similar(1396943, 10)
-    simi = svd.similarity(1396943, 1429174)
+    
     print sim
-    print simi
+    
     print "ok"
     
 loadSVD()
