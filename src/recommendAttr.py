@@ -17,7 +17,7 @@ def loadSVD():
     
     svd.save_data("svd.dat", False)
     
-    K=5
+    K=20
     svd.compute(k=K, min_values=1, pre_normalize="rows", mean_center=False, post_normalize=True, savefile='.')
     
     
