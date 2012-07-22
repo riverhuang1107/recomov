@@ -34,6 +34,7 @@ def dump():
                 rateStr = "".join(strList)                        
                 offList.append(rateStr)
             
+            dList=[]
             if directorStr and directorStr != "无":
                 directorStr = directorStr.strip()
                 dList = directorStr.split('，')
@@ -49,17 +50,16 @@ def dump():
                             dList = directorStr.split(' ')
                             if len(dList) == 1:                                                    
                                 dList = directorStr.split('　')
-                                if len(dList) == 1:
-                                    print "hell", directorStr, offeringid
-                                    dList.append(directorStr)     
+                                     
                 
                 for director in dList:
-                    if director:
+                    if director:                        
                         rateValue = 1
                         strList = [director, "::", offeringid, "::", str(rateValue), "\n"]
                         rateStr = "".join(strList)                        
                         offList.append(rateStr)
             
+            aList=[]
             if actorStr and actorStr != "无":
                 actorStr = actorStr.strip()
                 aList = actorStr.split('，')
@@ -74,10 +74,7 @@ def dump():
                             #print "hell2"
                             aList = actorStr.split(' ')
                             if len(aList) == 1:                                                    
-                                aList = actorStr.split('　')
-                                if len(aList) == 1:
-                                    print "hell", actorStr, offeringid
-                                    aList.append(actorStr)           
+                                aList = actorStr.split('　')                                           
                 
                 for act in aList:
                     
