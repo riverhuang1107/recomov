@@ -4,6 +4,8 @@
 
 """
 
+import yaml
+
 from recsys.algorithm.factorize import SVD
 
 def loadSVD():
@@ -14,7 +16,7 @@ def loadSVD():
     
     svd.save_data("svd.dat", False)
     
-    K=20
+    K=25
     svd.compute(k=K, min_values=1, pre_normalize="rows", mean_center=False, post_normalize=True, savefile='.')
     
     
@@ -30,11 +32,21 @@ def loadSVD():
     
     print sim_matrix
     
-    #1173893,1396943
+    #1173893,1396943(borne identity),1251131(kong)
     sim = svd.similar(1396943, 10)
     simi = svd.similarity(1396943, 1429174)
+    
+    filename = 'swoffering.yaml'
+    titleStream = file(filename, 'r')
+    titleList = yaml.load(titleStream)
+    
+    for row in sim:
+        
+        (offid, simiilar) = row
+        
+        print offid, titleList[str(offid)]
+    
     print sim
-    print simi
-    print "ok"
+    
     
 loadSVD()

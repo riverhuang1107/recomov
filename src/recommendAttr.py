@@ -6,6 +6,7 @@
 
 from recsys.algorithm.factorize import SVD
 from recsys import algorithm
+import yaml
 
 algorithm.VERBOSE = True
 
@@ -34,9 +35,19 @@ def loadSVD():
     print sim_matrix
     
     #1173893,1396943
-    sim = svd.similar(1396943, 10)
+    sim = svd.similar(1251131, 10)
     
     print sim
+    
+    filename = 'swoffering.yaml'
+    titleStream = file(filename, 'r')
+    titleList = yaml.load(titleStream)
+    
+    for row in sim:
+        
+        (offid, simiilar) = row
+        
+        print offid, titleList[str(offid)]
     
     print "ok"
     
