@@ -6,10 +6,14 @@
 
 import yaml
 
+import recsys.algorithm
+recsys.algorithm.VERBOSE = True
+
 from recsys.algorithm.factorize import SVD
 
 def loadSVD():
     
+        
     filename = 'doubanRate.dat'
     svd = SVD()
     svd.load_data(filename=filename, sep='::', format={'col':0, 'row':1, 'value':2, 'ids': int})
@@ -42,11 +46,11 @@ def loadSVD():
     
     for row in sim:
         
-        (offid, simiilar) = row
+        (offid, similar) = row
         
-        print offid, titleList[str(offid)]
+        print offid, titleList[str(offid)], similar
     
-    print sim
+    #print sim
     
     
 loadSVD()

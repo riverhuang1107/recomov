@@ -4,12 +4,12 @@
 
 """
 
+import recsys.algorithm
+recsys.algorithm.VERBOSE = True
+
 from recsys.algorithm.factorize import SVD
-from recsys import algorithm
 
 import yaml
-
-algorithm.VERBOSE = True
 
 def loadSVD():        
     
@@ -33,23 +33,23 @@ def loadSVD():
     
     print sparse_matrix
     
-    print sim_matrix
+    #print sim_matrix
     
     #1173893,1396943
-    sim = svd.similar(1251131, 10)
+    sim = svd.similar(897346, 10)
     
     filename = 'swoffering.yaml'
     titleStream = file(filename, 'r')
     titleList = yaml.load(titleStream)
     
+    #print sim
+    
     for row in sim:
         
-        (offid, simiilar) = row
+        (offid, similar) = row
         
-        print offid, titleList[str(offid)]
+        print offid, titleList[str(offid)], similar        
     
-    print sim
-    
-    print "ok"
+    #print "ok"
     
 loadSVD()
