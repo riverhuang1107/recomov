@@ -6,6 +6,7 @@
 
 import yaml
 import numpy, scipy.sparse
+import scipy.linalg
 from sparsesvd import sparsesvd
 
 def generateVector():
@@ -72,8 +73,14 @@ def generateVector():
         
         rateList.append(rList)
     
-    mat = scipy.array(rateList)   
-    smat = scipy.sparse.csc_matrix(mat) 
+    mat = scipy.array(rateList)
+    
+    u, s1, v = scipy.linalg.svd(mat)
+    
+    print s1   
+    
+    smat = scipy.sparse.csc_matrix(mat)         
+    
     ut, s, vt = sparsesvd(smat, 10)
     
     print s
