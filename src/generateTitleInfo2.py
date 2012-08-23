@@ -11,10 +11,9 @@ import time
 import Queue
 import threading
 
+from sys import argv
 
 queue = Queue.Queue()
-
-queue2 = Queue.Queue()
 
 titleInfoDict = {}
 
@@ -57,7 +56,7 @@ class ThreadUrl(threading.Thread):
                 else:
                     break
             
-            conn = httplib.HTTPConnection("api.douban.com", source_address=sip)
+            conn = httplib.HTTPConnection("api.douban.com", source_address=(sip, 0))
             conn.request("GET",host)
             res = conn.getresponse()
             if res.status == 200:
@@ -102,32 +101,24 @@ class ThreadUrl(threading.Thread):
             self.queue.task_done()
 
 
-def load():
+def load(arg):
     
     titleStream = file('offering.yaml', 'r')
     titleList = yaml.load(titleStream)
     
     nOfferingList = titleList.keys()
     
-    #produce a list contains unfetched offering
-    try:
-        titleStream = file('fetchedOffering2.yaml', 'r')
-        fetchedOffMap = yaml.load(titleStream)
-        
-        fetchedOffList = fetchedOffMap.keys()
-        print len(fetchedOffList)
-        
-        offMap = {}
-        for off in nOfferingList:
-            try:
-                result = fetchedOffMap[off]                
-            except:
-                offMap[off] = titleList[off]
-                
-        titleList = offMap        
-        nOfferingList = titleList.keys()
-        nTList = nOfferingList
-    except:
+    if arg == "34":
+        sip = "106.187.50.34"
+        titleStream = file('off434.yaml', 'r')
+        nTList = yaml.load(titleStream)
+          
+    elif arg == "111":
+        sip = "106.187.103.111"       
+        titleStream = file('off4111.yaml', 'r')
+        nTList = yaml.load(titleStream)    
+    
+    else:
         nTList = nOfferingList
             
     
@@ -136,17 +127,12 @@ def load():
     start = time.time()
     print start    
     
-    #spawn a pool of threads, and pass them queue instance, set 6 threads     
-    t = ThreadUrl(queue)
-    t.setDaemon(True)
-    t.start()
-    
-    t = ThreadUrl(queue2)
-    t.setDaemon(True)
-    t.start()
-    
-    k = 0    
-        
+    #spawn a pool of threads, and pass them queue instance, set 6 threads
+    for i in range(1):     
+        t = ThreadUrl(queue)
+        t.setDaemon(True)
+        t.start()
+                   
     #populate queue with data   
     for off in nTList:
         
@@ -157,30 +143,30 @@ def load():
                         row,
                         "&amp;start-index=1&amp;max-results=1&amp;apikey=047c58ac95bc67810d750a05c1353683"
                         ]
-        sUrl = "".join(searchUrlList).encode("utf8")
+        sUrl = "".join(searchUrlList).encode("utf8")                    
         
-        if k % 2 == 0:
-            
+        if arg == "111":
+            sip = "106.187.103.111"
+        elif arg == "34":
             sip = "106.187.50.34"            
-            queue.put((row, off, sUrl, start, sip))
-            
         else:
+            sip = ""
             
-            sip = "106.187.103.111"            
-            queue2.put((row, off, sUrl, start, sip))
-        
-        k = k + 1
+        queue.put((row, off, sUrl, start, sip))                
         
         print sUrl
         
-    
     #wait on the queue until everything has been processed     
     queue.join()
     
-    queue2.join()
-    
     #write the console20's title relationship with douban's title and douban's id into titleInfo.yaml
-    titleStream = file('titleInfo2.yaml', 'a')
+    if arg == "34":
+        titleStream = file('titleInfo34.yaml', 'a')        
+    elif arg == "111":
+        titleStream = file('titleInfo111.yaml', 'a')
+    else:
+        titleStream = file('titleInfo2.yaml', 'a')
+    
     yaml.dump(titleInfoDict, titleStream, default_flow_style=False)
     
     #write the fetched offering info into yaml
@@ -195,6 +181,9 @@ def load():
     
     print len(fetchedOff.keys())
     
+
+script, arg = argv
     
-load()
+load(arg)
+
     
